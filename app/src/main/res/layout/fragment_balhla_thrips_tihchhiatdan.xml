@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".balhla_thrips_tihchhiatdan"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/balhla_hri1_enkawldan"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Balhla rah hel pil pawn hi an ei ber a an tihmelhem bawk thin."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● A puitling hian a rah insiam tur hi an bawmin an zuk a, an tui a, a note lo piang a, chu chuan a pil chu an ei chhunzawm thin a ni."/>
+
+</LinearLayout>

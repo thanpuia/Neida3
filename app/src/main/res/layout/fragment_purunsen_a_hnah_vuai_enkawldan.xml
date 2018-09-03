@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".purunsen_aHnahVuai_enkawldan"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="  ● Purun seng na hnu leh hnah ro te lakkhawm a halral tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● A natna hrik tawm theihna chi hnim reng reng tih fai vek tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Purun chu Ziram emaw Mancozeb emaw Chlorothalonil      emaw Metalaxyl MZ – 72  litre 1 a pawlh dal a, kah tur ani."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● A bul chu tui sa (43oC to 45oC) a darkar 8 chiah hnu ah fungicide hmanga sawngbawl tur."/>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".balhla_fruitandLeaf_scarring_enkawldan"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ●A hmun thlawh fai that reng tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ●  A nasat na hmunah chuan Carbaryl WP tui litre 1 ah 1gm zel pawlh a hman tur."/>
+</LinearLayout>

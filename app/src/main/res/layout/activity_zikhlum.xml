@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".zikhlum">
+
+        <LinearLayout
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_view1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="BALHLA NATNA"
+                                    android:layout_marginLeft="18dp"
+                                    android:textStyle="bold"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_natna1"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="A_hnah_tawih_click"
+
+                                    />
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="A hnah tawih (Black rot)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="20dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_natna2"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="hnar_rau_click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hnar rau (Downy mildew)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_natna3"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="a_tiak_lawng_click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="A tiak lawng (Damping off)
+"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_natna4"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="a_hnahhnuailam_var_click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="A hnah hnuailam var (White rust)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+                        </LinearLayout>
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_view2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="RANNUNG HO"
+                                    android:layout_marginLeft="18dp"
+                                    android:textStyle="bold"/>
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_hri1"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="zikhlum_hrik_Click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="Zikhlum hrik (Aphid)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_hri2"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="pangangte_click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="Pangangte (Diamond back moth)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"/>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_hri3"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="hnah_car_khawmtu_click"
+
+                                    />
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="Hnah char khawmtu pangang (Leaf webber)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="20dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_hri4"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="a_tiak_sehchhumtu_click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="A tiak sehchhumtu pangang (Cutworm)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="@dimen/natnaButtonSize"
+                                    android:background="@drawable/zikhlum_hri5"
+                                    android:layout_marginLeft="15dp"
+                                    android:layout_marginRight="15dp"
+                                    android:layout_marginTop="15dp"
+                                    android:layout_marginBottom="5dp"
+                                    android:onClick="pangang_hring_click"/>
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:text="Pangang hring (Large white cabbage butterfly)"
+                                    android:layout_marginLeft="15dp"/>
+
+                                <Space
+                                    android:layout_height="30dp"
+                                    android:layout_width="match_parent"
+                                    />
+
+                        </LinearLayout>
+                </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+</ScrollView>

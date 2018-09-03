@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".thingfanghma">
+
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_idm1"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="VutbuakClick"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vutbuak (Powdery mildew)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="20dp"
+                android:layout_width="match_parent"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_idm2"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="a_hnah_kir_click"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A hnah kir (Leaf curl)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="30dp"
+                android:layout_width="match_parent"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_idm3"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="a_hnah_rau_click"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  A hnah rau/ eng (papaya mosaic)
+"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="30dp"
+                android:layout_width="match_parent"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_idm4"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="rahNatnaClick"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A rah natna (Anthracnose)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="30dp"
+                android:layout_width="match_parent"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_ipm1"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="bawmtuVarClick"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A hnah leh rah bawmtu var (Papaya mealybug)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="20dp"
+                android:layout_width="match_parent"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_ipm2"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="thlawkVar_click"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A thlawk var (papaya whitefly)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="30dp"
+                android:layout_width="match_parent"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_ipm3"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="khau_Click"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Khau (Grasshopper)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="30dp"
+                android:layout_width="match_parent"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/papaya_ipm4"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="5dp"
+                android:onClick="hnahTuiHnagDawtuClick"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A hnah tuihnang dâwttu(Aphids)"
+                android:layout_marginLeft="15dp"/>
+
+            <Space
+                android:layout_height="30dp"
+                android:layout_width="match_parent"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+
+    </ScrollView>

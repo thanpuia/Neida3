@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serthlum_vutbuak_enkawldan"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● A natna lo lan veleh ni 10-12 inkar danah vawi 3 tal Calixin 1ml emaw Mancozeb 2gm leh tui 1 litre pawlhin a ser buk pumpui kah chhuah vek tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Ser rah lawh zawh veleh a tang ro, a hring china tan khalh a, Bavistin 1gm tui litre 1-in a kung pumpui uluk taka kah kim vek tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Natnain a beih nasat viau chuan Sulfex 5 gm leh tui litre 1-a kah tur a ni."/>
+
+</LinearLayout>

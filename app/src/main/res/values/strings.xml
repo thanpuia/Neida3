@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Neida3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="textSize">22dp</dimen>
+    <dimen name="natnaLanDanLehEnkawlDanMargin">10dp</dimen>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_thingfanghma_vutbuak">thingfanghma_vutbuak</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_a_han_kir">A_han_kir</string>
+    <string name="title_activity_a_hnah_kir">A_hnah_kir</string>
+    <string name="title_activity_main3_hnahkir">Main3Activity_hnahkir</string>
+    <string name="title_activity_main4_a_hnah_rau">Main4Activity_aHnahRau</string>
+    <string name="title_activity_main5_rah_natna">Main5Activity_rahNatna</string>
+    <string name="title_activity_main6_bawmtu_var">Main6Activity_bawmtuVar</string>
+    <string name="title_activity_main_thlawk_var">MainActivity_thlawkVar</string>
+    <string name="title_activity_main7_thlawk_var">Main7Activity_thlawkVar</string>
+    <string name="title_activity_main8_khau">Main8Activity_khau</string>
+    <string name="title_activity_main9__hnah_tui_hnang_dawt_tu">
+        Main9Activity_Hnah_tui_hnang_dawt_tu
+    </string>
+    <string name="title_activity_zikhlum">zikhlum</string>
+    <string name="title_activity_main10_zikhlum_hnah_tawih">Main10Activity_zikhlum_hnahTawih
+    </string>
+    <string name="title_activity_main11_zikhlum_hnah_rau">Main11Activity_zikhlum_hnahRau</string>
+    <string name="title_activity_main12_zikhlum__tiak_lawng">Main12Activity_zikhlum__tiak_lawng
+    </string>
+    <string name="title_activity_main13_zikhum_hnah_hnuailam_var">
+        Main13Activity_zikhum_hnah_hnuailam_var
+    </string>
+    <string name="title_activity_main14_zikhlum_hri">Main14Activity_zikhlum_hri</string>
+    <string name="title_activity_main15_zikhlum_pangangte">Main15Activity_zikhlum_pangangte</string>
+    <string name="title_activity_main16_hnah_char_khawmtu">Main16Activity_hnah_char_khawmtu</string>
+    <string name="title_activity_main16_zikhlum_hnah_char_khawmtu">
+        Main16Activity_zikhlum_hnah_char_khawmtu
+    </string>
+    <string name="title_activity_main17_zikhlum_tiak_sehchhumtu">
+        Main17Activity_zikhlum_tiak_sehchhumtu
+    </string>
+    <string name="title_activity_main18_pangang_hring">Main18Activity_pangang_hring</string>
+    <string name="title_activity_main18_zikhlum_pangang_hring">
+        Main18Activity_zikhlum_pangang_hring
+    </string>
+    <string name="title_activity_main31_balhla_tam_hri">Main31Activity_balhla_tam_hri</string>
+    <string name="title_activity_main32_balhla_than_thut">Main32Activity_balhla_than_thut</string>
+    <string name="title_activity_main33_hnah_de_eng">Main33Activity_hnah_de_eng</string>
+    <string name="title_activity_main34_hnah_leh_rah_rau">Main34Activity_hnah_leh_rah_rau</string>
+    <string name="title_activity_main35_balhla_thrips">Main35Activity_balhla_thrips</string>
+    <string name="title_activity_main36_aphid">Main36Activity_aphid</string>
+    <string name="title_activity_main37_balhla__pseudostemborer">
+        Main37Activity_balhla_PSEUDOSTEMBORER
+    </string>
+    <string name="title_activity_main37_balhla_fruitand_leaf_scarring">
+        Main37Activity_balhla_fruitandLeaf_scarring
+    </string>
+    <string name="title_activity_main41_purunsen_kung_hmawr_tawih">
+        Main41Activity_purunsen_kungHmawrTawih
+    </string>
+    <string name="title_activity_main42_purunsen_ahnah_tawih">Main42Activity_purunsen_ahnahTawih
+    </string>
+    <string name="title_activity_main43_purunsen_hnah_rau">Main43Activity_purunsen_hnah_rau</string>
+    <string name="title_activity_main44_a_hnah_rau_blight">Main44Activity_a_hnah_rau_blight</string>
+    <string name="title_activity_main45_purunsen_a_hnah_vuai">Main45Activity_purunsen_aHnahVuai
+    </string>
+    <string name="title_activity_main46_purunsen_hnah_ei_rangtu">
+        Main46Activity_purunsen_hnah_ei_rangtu
+    </string>
+    <string name="title_activity_main47_purunsen_hnah_hreuh_rangtu">
+        Main47Activity_purunsen_hnah_hreuh_rangtu
+    </string>
+    <string name="title_activity_main49_purunsen_lung">Main49Activity_purunsen_lung</string>
+    <string name="title_activity_main48_purunsen_tiak_sehchhumtu">
+        Main48Activity_purunsen_tiak_sehchhumtu
+    </string>
+    <string name="title_activity_main51_serthlum_a__kung_hnai">Main51Activity_serthlum_a_Kung_hnai
+    </string>
+    <string name="title_activity_main51_serthlum_a_hnah_hnai">Main51Activity_serthlum_a_hnah_hnai
+    </string>
+    <string name="title_activity_main52_serthlum_kumthu">Main52Activity_serthlum_kumthu</string>
+    <string name="title_activity_main53_serthlum_a_hnah_rau">Main53Activity_serthlum_a_hnah_rau
+    </string>
+    <string name="title_activity_main54_serthlum_vutbuak">Main54Activity_serthlum_vutbuak</string>
+    <string name="title_activity_main55_rah_tawih">Main55Activity_rah_tawih</string>
+
+    <string name="vaimim_natna1">A kuang tawih (Bacterial stalk rot)</string>
+    <string name="vaimim_natna2">A kuang meihawl  dum anga tawih (Charcoal stalk rot)</string>
+    <string name="vaimim_natna3">Hnah rau rawng uka tial (brown stripe Downey Mildew)
+</string>
+    <string name="vaimim_natna4">A hnah rau val kual (leaf blight)</string>
+    <string name="vaimim_hri1">A kau eitu (Stem borer)</string>
+    <string name="vaimim_hri2">Panganag hmul(Hairy caterpillar)</string>
+    <string name="vaimim_hri3">(Jassid)</string>
+    <string name="vaimim_hri4">A tui hnang dawttu (Aphids)</string>
+
+    <string name="v1a1">A kuang, lei hnaih lam a hnawng bik in a lo uk thet thet a, a tliak awlsam bik thin ani.</string>
+    <string name="v1a2">A kau tawih hian rimchhia a chhuah thin bawk.</string>
+    <string name="v1a3">A kau  tawih  hian a kung par lai te a thi thin bawk ani.</string>
+    <string name="v1b1">He natna atan hian bleaching powder ( bleaching powder  ah hian chlorine 33% a awm tur a ni) a hman theih a, 10kg/ha hi a par hma in leiah theh tur ani.</string>
+    <string name="v1b2">Eng thlai pawh huan sir velah phun tiah a tha.</string>
+    <string name="v1b3">Bacteria natna hmuh a tui luan tir amaw tlin tir hian natna  aput darh zel avangin tih loh tawp tur ani.</string>
+    <string name="v2a1">A tlangpuiin, he natna hi a par atanga kar 1-2 naah a lo lang thin.</string>
+    <string name="v2a2">A kau lei hnaih lam hi a rawn eng chhuak thin a.</string>
+    <string name="v2a3">A kung a lo puitlin pawhin, a kau chhung hi a dum uarh thin a ni.</string>
+    <string name="v2b1">A par lai hian a mamawh tawk lekin tui hi pek that tur a ni.</string>
+    <string name="v2b2">Trichoderma leh FYM in pawlh @ 2.5kg/acre hi he natna tan hian a tha duh hle. (a mixing (chawhpawlh hi theh atanga ni 10 hmain lo buatsaih lawk tur a ni.</string>
+    <string name="v3a1">A hnah hnuai lamah hian dum kelh kelh a lo awm a, a hnuah a lo eng tial in a lo rau chhuak thin a ni.</string>
+    <string name="v3b1">Metalaxyl @ 1.5g/L hi he hmuar natna a tan hian a tangkai hle. Kah atanga ni 15 hnuah kah nawn leh tur a ni.</string>
+    <string name="v4a1">Rawng uk (eng lek lek) a hnah hnuai lamah a awm kulh thin.</string>
+    <string name="v4b1">A nasat chuan vawi thum lai pawh kah tur a ni.</string>
+    <string name="v4b2">Huan fai leh thianghlim taka dah tur.</string>
+    <string name="v4b3">Zineb @2gm/L a hman theih bawk.</string>
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serthlum_aHnahHnai_enkawldan"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Hlo thlawh leh leitha pekin ser zung chaw hipna tihpem/tihchhum loh tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Hnai sa-um ang deuh lo chhuahna a pil kha chemte hriam taka ziah thlak a, tihfai hnuah Ridomil MZ-72 @ 2gm tui 1 litre emaw Bordeaux paste bel tur."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="   ● Ser kung atanga 60-100cm chin chu ruahtui tlak hma leh hnuah Bordeaux paste kum 1-ah vawi thum hnawih ziah tur."/>
+</LinearLayout>

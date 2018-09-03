@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lalthanpuia.neida3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".thingfanghma" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".A_hnah_kir"
+            android:label="@string/title_activity_a_hnah_kir"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main3Activity_hnahkir"
+            android:label="@string/title_activity_main3_hnahkir"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main4Activity_aHnahRau"
+            android:label="@string/title_activity_main4_a_hnah_rau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main5Activity_rahNatna"
+            android:label="@string/title_activity_main5_rah_natna"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main6Activity_bawmtuVar"
+            android:label="@string/title_activity_main6_bawmtu_var"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity_thlawkVar"
+            android:label="@string/title_activity_main_thlawk_var"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main7Activity_thlawkVar"
+            android:label="@string/title_activity_main7_thlawk_var"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main8Activity_khau"
+            android:label="@string/title_activity_main8_khau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main9Activity_Hnah_tui_hnang_dawt_tu"
+            android:label="@string/title_activity_main9__hnah_tui_hnang_dawt_tu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".zikhlum"
+            android:label="@string/title_activity_zikhlum"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main10Activity_zikhlum_hnahTawih"
+            android:label="@string/title_activity_main10_zikhlum_hnah_tawih"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main11Activity_zikhlum_hnahRau"
+            android:label="@string/title_activity_main11_zikhlum_hnah_rau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main12Activity_zikhlum__tiak_lawng"
+            android:label="@string/title_activity_main12_zikhlum__tiak_lawng"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main13Activity_zikhum_hnah_hnuailam_var"
+            android:label="@string/title_activity_main13_zikhum_hnah_hnuailam_var"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main14Activity_zikhlum_hri"
+            android:label="@string/title_activity_main14_zikhlum_hri"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main15Activity_zikhlum_pangangte"
+            android:label="@string/title_activity_main15_zikhlum_pangangte"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main16Activity_zikhlum_hnah_char_khawmtu"
+            android:label="@string/title_activity_main16_zikhlum_hnah_char_khawmtu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main17Activity_zikhlum_tiak_sehchhumtu"
+            android:label="@string/title_activity_main17_zikhlum_tiak_sehchhumtu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main18Activity_zikhlum_pangang_hring"
+            android:label="@string/title_activity_main18_zikhlum_pangang_hring"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".balhla" />
+        <activity
+            android:name=".Main31Activity_balhla_tam_hri"
+            android:label="@string/title_activity_main31_balhla_tam_hri"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main32Activity_balhla_than_thut"
+            android:label="@string/title_activity_main32_balhla_than_thut"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main33Activity_hnah_de_eng"
+            android:label="@string/title_activity_main33_hnah_de_eng"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main34Activity_hnah_leh_rah_rau"
+            android:label="@string/title_activity_main34_hnah_leh_rah_rau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main35Activity_balhla_thrips"
+            android:label="@string/title_activity_main35_balhla_thrips"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main36Activity_aphid"
+            android:label="@string/title_activity_main36_aphid"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main37Activity_balhla_PSEUDOSTEMBORER"
+            android:label="@string/title_activity_main37_balhla__pseudostemborer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main37Activity_balhla_fruitandLeaf_scarring"
+            android:label="@string/title_activity_main37_balhla_fruitand_leaf_scarring"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".purunsen" />
+        <activity
+            android:name=".Main41Activity_purunsen_kungHmawrTawih"
+            android:label="@string/title_activity_main41_purunsen_kung_hmawr_tawih"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main42Activity_purunsen_ahnahTawih"
+            android:label="@string/title_activity_main42_purunsen_ahnah_tawih"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main43Activity_purunsen_hnah_rau"
+            android:label="@string/title_activity_main43_purunsen_hnah_rau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main44Activity_a_hnah_rau_blight"
+            android:label="@string/title_activity_main44_a_hnah_rau_blight"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main45Activity_purunsen_aHnahVuai"
+            android:label="@string/title_activity_main45_purunsen_a_hnah_vuai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main46Activity_purunsen_hnah_ei_rangtu"
+            android:label="@string/title_activity_main46_purunsen_hnah_ei_rangtu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main47Activity_purunsen_hnah_hreuh_rangtu"
+            android:label="@string/title_activity_main47_purunsen_hnah_hreuh_rangtu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main49Activity_purunsen_lung"
+            android:label="@string/title_activity_main49_purunsen_lung"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main48Activity_purunsen_tiak_sehchhumtu"
+            android:label="@string/title_activity_main48_purunsen_tiak_sehchhumtu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".serthlum" />
+        <activity
+            android:name=".Main51Activity_serthlum_a_hnah_hnai"
+            android:label="@string/title_activity_main51_serthlum_a_hnah_hnai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main52Activity_serthlum_kumthu"
+            android:label="@string/title_activity_main52_serthlum_kumthu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main53Activity_serthlum_a_hnah_rau"
+            android:label="@string/title_activity_main53_serthlum_a_hnah_rau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main54Activity_serthlum_vutbuak"
+            android:label="@string/title_activity_main54_serthlum_vutbuak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main55Activity_rah_tawih"
+            android:label="@string/title_activity_main55_rah_tawih"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".vaimim"></activity>
+    </application>
+
+</manifest>

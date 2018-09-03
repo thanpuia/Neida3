@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serthlum"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_natna1"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="a_Kung_hnai_Click"
+
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A kung hnai la (Gummosis)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="20dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_natna2"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="kumthu_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" Kumthu (Sooty mould)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_natna3"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnahRauCitrus_click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A hnah rau (Citrus tristeza)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_natna4"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="vutbuakOrange_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Vutbuak (Powdery mildew)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_natna5"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="rah_tawih_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A rah tawih ( Fruit rot)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_hri1"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="katnelh_Click"
+
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" Katnelh, a dâwttu (Citrus psylla)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="20dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_hri2"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnahHruairangtu_click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A hnah hreuh rangtu (Citurs leaf miner)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_hri3"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="kungKertuClick"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A kung kertu (Trunk borer)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_hri4"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="rah_dawttuClick"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" Serthlum rah dawttu(Citrus fruit bug)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/serthlum_hri5"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="rahdawttu_e_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" Serthlum rah dawttu, lungphur-thlahtu (Fruit sucking moth)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

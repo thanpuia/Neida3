@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".purunsen">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_natna1"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="kung_hmawr_tawih_Click"
+
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="A kung hmawr tawih (Damping off)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="20dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_natna2"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnah_tawih_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="A hnah tawih (Purple blotch)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_natna3"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnah_rau_val_click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="A hnah rau val kual (Stemphylium leaf blight)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_natna4"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnah_rau_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A hnah rau (Collectotrichum blight/ anthracnose)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_natna5"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnah_uai_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=" A hnah uai/vuai (Downy mildew) "
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/card_view2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_hri1"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="purunsen_thrips_Click"
+
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="A hnah ei rangtu rannungte (Thrips)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="20dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_hri2"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="purun_hnah_hreuh_click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="A hnah hreuh rangtu (Allium Leaf miner)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_hri3"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="purun_lung_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Purun lung (Onion maggot)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/purun_hri4"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="tiak_sehchhutuPangaga_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="A tiak sehchhumtu pangang (Cutworm)"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

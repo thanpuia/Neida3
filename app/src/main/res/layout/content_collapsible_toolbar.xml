@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/papaya_button"
+        android:layout_margin="10dp"
+        android:onClick="papaya" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/zikhlum_button_two"
+        android:layout_margin="10dp"
+        android:onClick="zikhlumClick"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/balhlabutton"
+        android:layout_margin="10dp"
+        android:onClick="balhlaClick" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/purninsenbutton"
+        android:layout_margin="10dp"
+        android:onClick="purunClick" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/serthlumbutton"
+        android:layout_margin="10dp"
+        android:onClick="serthlumClick" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/vaimimbutton"
+        android:layout_margin="10dp"
+        android:onClick="vaimimClick" />
+
+
+</LinearLayout>
