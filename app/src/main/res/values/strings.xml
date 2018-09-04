@@ -102,29 +102,58 @@
     <string name="vaimim_hri3">(Jassid)</string>
     <string name="vaimim_hri4">A tui hnang dawttu (Aphids)</string>
 
-    <string name="v1a1">A kuang, lei hnaih lam a hnawng bik in a lo uk thet thet a, a tliak awlsam bik thin ani.</string>
-    <string name="v1a2">A kau tawih hian rimchhia a chhuah thin bawk.</string>
-    <string name="v1a3">A kau  tawih  hian a kung par lai te a thi thin bawk ani.</string>
-    <string name="v1b1">He natna atan hian bleaching powder ( bleaching powder  ah hian chlorine 33% a awm tur a ni) a hman theih a, 10kg/ha hi a par hma in leiah theh tur ani.</string>
-    <string name="v1b2">Eng thlai pawh huan sir velah phun tiah a tha.</string>
-    <string name="v1b3">Bacteria natna hmuh a tui luan tir amaw tlin tir hian natna  aput darh zel avangin tih loh tawp tur ani.</string>
-    <string name="v2a1">A tlangpuiin, he natna hi a par atanga kar 1-2 naah a lo lang thin.</string>
-    <string name="v2a2">A kau lei hnaih lam hi a rawn eng chhuak thin a.</string>
-    <string name="v2a3">A kung a lo puitlin pawhin, a kau chhung hi a dum uarh thin a ni.</string>
-    <string name="v2b1">A par lai hian a mamawh tawk lekin tui hi pek that tur a ni.</string>
-    <string name="v2b2">Trichoderma leh FYM in pawlh @ 2.5kg/acre hi he natna tan hian a tha duh hle. (a mixing (chawhpawlh hi theh atanga ni 10 hmain lo buatsaih lawk tur a ni.</string>
-    <string name="v3a1">A hnah hnuai lamah hian dum kelh kelh a lo awm a, a hnuah a lo eng tial in a lo rau chhuak thin a ni.</string>
-    <string name="v3b1">Metalaxyl @ 1.5g/L hi he hmuar natna a tan hian a tangkai hle. Kah atanga ni 15 hnuah kah nawn leh tur a ni.</string>
-    <string name="v4a1">Rawng uk (eng lek lek) a hnah hnuai lamah a awm kulh thin.</string>
-    <string name="v4b1">A nasat chuan vawi thum lai pawh kah tur a ni.</string>
-    <string name="v4b2">Huan fai leh thianghlim taka dah tur.</string>
-    <string name="v4b3">Zineb @2gm/L a hman theih bawk.</string>
+    <string name="v1a1">  ● A kuang, lei hnaih lam a hnawng bik in a lo uk thet thet a, a tliak awlsam bik thin ani.</string>
+    <string name="v1a2">  ● A kau tawih hian rimchhia a chhuah thin bawk.</string>
+    <string name="v1a3">  ● A kau  tawih  hian a kung par lai te a thi thin bawk ani.</string>
+    <string name="v1b1">  ● He natna atan hian bleaching powder ( bleaching powder  ah hian chlorine 33% a awm tur a ni) a hman theih a, 10kg/ha hi a par hma in leiah theh tur ani.</string>
+    <string name="v1b2">  ● Eng thlai pawh huan sir velah phun tiah a tha.</string>
+    <string name="v1b3">  ● Bacteria natna hmuh a tui luan tir amaw tlin tir hian natna  aput darh zel avangin tih loh tawp tur ani.</string>
+    <string name="v2a1">  ● A tlangpuiin, he natna hi a par atanga kar 1-2 naah a lo lang thin.</string>
+    <string name="v2a2">  ● A kau lei hnaih lam hi a rawn eng chhuak thin a.</string>
+    <string name="v2a3">  ● A kung a lo puitlin pawhin, a kau chhung hi a dum uarh thin a ni.</string>
+    <string name="v2b1">  ● A par lai hian a mamawh tawk lekin tui hi pek that tur a ni.</string>
+    <string name="v2b2">  ● Trichoderma leh FYM in pawlh @ 2.5kg/acre hi he natna tan hian a tha duh hle. (a mixing (chawhpawlh hi theh atanga ni 10 hmain lo buatsaih lawk tur a ni.</string>
+    <string name="v3a1">  ● A hnah hnuai lamah hian dum kelh kelh a lo awm a, a hnuah a lo eng tial in a lo rau chhuak thin a ni.</string>
+    <string name="v3b1">  ● Metalaxyl @ 1.5g/L hi he hmuar natna a tan hian a tangkai hle. Kah atanga ni 15 hnuah kah nawn leh tur a ni.</string>
+    <string name="v4a1">  ● Rawng uk (eng lek lek) a hnah hnuai lamah a awm kulh thin.</string>
+    <string name="v4b1">  ● A nasat chuan vawi thum lai pawh kah tur a ni.</string>
+    <string name="v4b2">  ● Huan fai leh thianghlim taka dah tur.</string>
+    <string name="v4b3">  ● Zineb @2gm/L a hman theih bawk.</string>
+
+    <string name="v5a1">  ● Pangngang: a eng ukin an awm a, a lu hi a uk khuih thin</string>
+    <string name="v5a2">  ● A puitling: a puitling (lungphur) chu buhpawl rawng in an awm thin</string>
+    <string name="v5b1">  ● A panganng hian a kau leh kuang a ei kaw pawp hrup thin</string>
+    <string name="v5b2">  ● A zikno a ro in a hnah no a ei thin ani. A kuang no chhungah an cheng tlangpui.</string>
+    <string name="v5c1">  ● Duhthusamah chuan heng rannung hi lei chhungah an awm thin avangin, nipui lai leh a lei sawngbawl lain thuk taka lei laiha, nisa ah kar 2 tal lei kha pho thin tur a ni.</string>
+    <string name="v5c2">  ● Behlawi nena chin pawlh hi a tha hle bawk</string>
+    <string name="v6a1">  ● Pangngang: heng pangang hi an rawng a sen a, hmul hriam zum tak tak an nei bawk</string>
+    <string name="v6a2">  ● A puitling: an thla leh lam leh lamah hian a dumin a bial kalh kalh thin</string>
+    <string name="v6b1">  ● Pangang hian a hnah a ei hek thin</string>
+    <string name="v6c1">  ● Neemazal/Neem 5ml/Lvel a hman theih a</string>
+    <string name="v6c2">  ● Carbaryl 50% WP @2kg/ha hi tui 1000L ah pawlh a kah tur a ni.</string>
+    <string name="v6c3">  ● Pangang hi a tam loh chuan kut a vai mai thin tur.</string>
+    <string name="v7a1">  ● A puitling: A pui hi an rawng a hring a, an te em em bawk a, an kat nelh nelh thei bawk</string>
+    <string name="v7b1">  ● A hnah leh a kau a tui hnang an zuk chhuakin  a hnah leh kung an ti ro thin.</string>
+    <string name="v7b2">  ● Natna pu darhtu ber te an ni.</string>
+    <string name="v7c1">  ● Viral natna an put darh avangin Jassid awmna re re chu pawh phawi a halral thin tur a ni. </string>
+    <string name="v7c2">  ● Imidachlorprid @1.5ml/L emaw Acetamiprid @ 1gm/L hi a tha hle bawk.</string>
+    <string name="v8a1">  ● A puitling: a puitling hi rawng hring khawih a puak pep2 thei an ni tlangpui.</string>
+    <string name="v8b1">  ● A hnah an zuk ro a, viral natna an pu darh thin bawk.</string>
+    <string name="v8c1">  ● Viral natna an put darh thin avangin Aphids awmna re re chu pawh phawi a halral thin tur a ni.</string>
+    <string name="v8c2">  ● Imidachlorprid @1.5ml/L emaw Acetamiprid @ 1gm/L hi a tha hle bawk tur.</string>
 
 
-
-
-
-
+    <string name="title_activity_main61_vaimim__kuang_tawih">Main61Activity_vaimim_KuangTawih
+    </string>
+    <string name="title_activity_main62_vaimim_a_kuang_meihawl">
+        Main62Activity_vaimim_a_kuang_meihawl
+    </string>
+    <string name="title_activity_main63_vaimim_hnah_rau">Main63Activity_vaimim_hnah_rau</string>
+    <string name="title_activity_main63_vaimim__hnah_rau_val">Main63Activity_vaimim_Hnah_rau_val
+    </string>
+    <string name="title_activity_main65_vaimim_kau_eitu">Main65Activity_vaimim_kau_eitu</string>
+    <string name="title_activity_main66_vaimim_pangan_hmul">Main66Activity_vaimim_pangan_hmul
+    </string>
 
 
 </resources>

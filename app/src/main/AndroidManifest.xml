@@ -188,7 +188,31 @@
             android:name=".Main55Activity_rah_tawih"
             android:label="@string/title_activity_main55_rah_tawih"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".vaimim"></activity>
+        <activity android:name=".vaimim" />
+        <activity
+            android:name=".Main61Activity_vaimim_KuangTawih"
+            android:label="@string/title_activity_main61_vaimim__kuang_tawih"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main62Activity_vaimim_a_kuang_meihawl"
+            android:label="@string/title_activity_main62_vaimim_a_kuang_meihawl"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main63Activity_vaimim_hnah_rau"
+            android:label="@string/title_activity_main63_vaimim_hnah_rau"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main63Activity_vaimim_Hnah_rau_val"
+            android:label="@string/title_activity_main63_vaimim__hnah_rau_val"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main65Activity_vaimim_kau_eitu"
+            android:label="@string/title_activity_main65_vaimim_kau_eitu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main66Activity_vaimim_pangan_hmul"
+            android:label="@string/title_activity_main66_vaimim_pangan_hmul"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
