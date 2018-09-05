@@ -11,12 +11,12 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Purun hnah leh a par chawitu kuangah te tlem a khuar deuhin a rawn val thliah thliah a,a ro zui thin."/>
+        android:text="@string/p2a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Seng hnuah a dahkhawmna hmunah a tawih chhunzawm duh hlei. "/>
+        android:text="@string/p2a2"/>
 </LinearLayout>

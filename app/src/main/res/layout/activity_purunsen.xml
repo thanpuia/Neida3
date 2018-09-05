@@ -46,7 +46,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A kung hmawr tawih (Damping off)"
+                        android:text="@string/p1"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -65,7 +65,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A hnah tawih (Purple blotch)"
+                        android:text="@string/p2"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -84,7 +84,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A hnah rau val kual (Stemphylium leaf blight)"
+                        android:text="@string/p3"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -103,7 +103,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A hnah rau (Collectotrichum blight/ anthracnose)"
+                        android:text="@string/p4"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -122,7 +122,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A hnah uai/vuai (Downy mildew) "
+                        android:text="@string/p5"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -160,7 +160,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A hnah ei rangtu rannungte (Thrips)"
+                        android:text="@string/p6"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -179,7 +179,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A hnah hreuh rangtu (Allium Leaf miner)"
+                        android:text="@string/p7"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -198,7 +198,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Purun lung (Onion maggot)"
+                        android:text="@string/p8"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -217,7 +217,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A tiak sehchhumtu pangang (Cutworm)"
+                        android:text="@string/p9"
                         android:layout_marginLeft="15dp"/>
 
                     <Space

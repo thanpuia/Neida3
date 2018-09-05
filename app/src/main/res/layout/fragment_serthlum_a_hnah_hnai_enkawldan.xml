@@ -11,19 +11,20 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Hlo thlawh leh leitha pekin ser zung chaw hipna tihpem/tihchhum loh tur."/>
+        android:text="@string/s1b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Hnai sa-um ang deuh lo chhuahna a pil kha chemte hriam taka ziah thlak a, tihfai hnuah Ridomil MZ-72 @ 2gm tui 1 litre emaw Bordeaux paste bel tur."/>
+        android:text="@string/s1b2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Ser kung atanga 60-100cm chin chu ruahtui tlak hma leh hnuah Bordeaux paste kum 1-ah vawi thum hnawih ziah tur."/>
+        android:text="@string/s1b3"/>
+
 </LinearLayout>

@@ -14,13 +14,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A pangang chuan a hnah a ei chhum  thin."/>
+        android:text="@string/p9b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Chawhnu lamah an che chhuak deuh ber a, zan lamah lei ah a tawm bo thin."/>
+        android:text="@string/p9b2"/>
 
 </LinearLayout>

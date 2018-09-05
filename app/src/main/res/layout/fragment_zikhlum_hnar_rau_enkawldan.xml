@@ -12,12 +12,12 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Natna in a bawm hnah chu paih vek tur"/>
+        android:text="@string/z2b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Natna in a bawh Thlai chu Mancozeb emaw Copper Oxychloride 5gm tui litre khat a pawlh a, ni 10 danah vawi hnih kah thin tur a ni "/>
+        android:text="@string/z2b2"/>
 </LinearLayout>

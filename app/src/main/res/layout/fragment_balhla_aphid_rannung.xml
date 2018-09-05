@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●  Hrik te reuh te te an ni a, hrikhrah ang tak, balhla kungah te,a hnah ah te,a zikah te a vui ah te a tuihnang an dawt thin a ni."/>
+        android:text="@string/b6a1"/>
 
 </LinearLayout>

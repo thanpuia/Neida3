@@ -11,20 +11,20 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Purun chinna lai thlawh fai reng tur."/>
+        android:text="@string/p8c1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tui tlinglo tura siam a,a tawk chauh a tui pek tur."/>
+        android:text="@string/p8c2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A bul inhlat tawk tura phun tur, a hun takah a tiak phunsawn tur."/>
+        android:text="@string/p8c3"/>
 
 </LinearLayout>

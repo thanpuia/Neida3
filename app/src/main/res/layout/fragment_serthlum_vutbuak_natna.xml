@@ -11,20 +11,20 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Ser hnah leh a zik noah te chuan a vut buak ang maiin a var tuar thin."/>
+        android:text="@string/s4a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hnah sawng tein a rah te pawhin a tlak phah thin."/>
+        android:text="@string/s4a2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Ser tang chu a ler lam atangin a thi thin bawk a ni."/>
+        android:text="@string/s4a3"/>
 
 </LinearLayout>

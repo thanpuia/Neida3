@@ -11,15 +11,19 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Natna vei balhla kung kha kar a, vaua paih mai tur a ni."/>
-
-
+        android:text="@string/b1a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Natna vei a la tam loh chuan taidarh zel tur vennan Bavistin (Carbendazim), 3g leh tui 1 litre pawlha kah tur a ni."/>
+        android:text="@string/b1a2"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/textSize"
+        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+        android:text="@string/b1a3"/>
 </LinearLayout>

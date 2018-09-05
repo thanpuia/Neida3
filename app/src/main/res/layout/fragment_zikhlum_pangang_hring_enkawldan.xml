@@ -11,14 +11,14 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A pangang chu a theih ang anga man khawm a, thah tur."/>
+        android:text="@string/z9c1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Seng hma kar thum la awm ah Malathion 1ml tui litre 1 a pawlh in kah tur ani."/>
+        android:text="@string/z9c2"/>
 
 
 </LinearLayout>

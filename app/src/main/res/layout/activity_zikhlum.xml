@@ -52,7 +52,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="A hnah tawih (Black rot)"
+                                    android:text="@string/z1"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -71,7 +71,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Hnar rau (Downy mildew)"
+                                    android:text="@string/z2"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -90,8 +90,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="A tiak lawng (Damping off)
-"
+                                    android:text="@string/z3"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -110,7 +109,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="A hnah hnuailam var (White rust)"
+                                    android:text="@string/z4"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -155,7 +154,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Zikhlum hrik (Aphid)"
+                                    android:text="@string/z5"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -174,7 +173,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Pangangte (Diamond back moth)"
+                                    android:text="@string/z6"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -194,7 +193,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Hnah char khawmtu pangang (Leaf webber)"
+                                    android:text="@string/z7"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -213,7 +212,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="A tiak sehchhumtu pangang (Cutworm)"
+                                    android:text="@string/z8"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space
@@ -232,7 +231,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Pangang hring (Large white cabbage butterfly)"
+                                    android:text="@string/z9"
                                     android:layout_marginLeft="15dp"/>
 
                                 <Space

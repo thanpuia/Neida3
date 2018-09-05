@@ -45,7 +45,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A kung hnai la (Gummosis)"
+                        android:text="@string/s1"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -64,7 +64,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" Kumthu (Sooty mould)"
+                        android:text="@string/s2"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -83,7 +83,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A hnah rau (Citrus tristeza)"
+                        android:text="@string/s3"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -102,7 +102,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Vutbuak (Powdery mildew)"
+                        android:text="@string/s4"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -122,7 +122,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A rah tawih ( Fruit rot)"
+                        android:text="@string/s5"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -160,7 +160,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" Katnelh, a dâwttu (Citrus psylla)"
+                        android:text="@string/s6"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -179,7 +179,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A hnah hreuh rangtu (Citurs leaf miner)"
+                        android:text="@string/s7"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -198,7 +198,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" A kung kertu (Trunk borer)"
+                        android:text="@string/s8"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -217,7 +217,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" Serthlum rah dawttu(Citrus fruit bug)"
+                        android:text="@string/s9"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -237,7 +237,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" Serthlum rah dawttu, lungphur-thlahtu (Fruit sucking moth)"
+                        android:text="@string/s10"
                         android:layout_marginLeft="15dp"/>
 
                     <Space

@@ -13,12 +13,12 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A natna damdawi nena enkawl dam chi a ni lo."/>
+        android:text="@string/b2b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Chuvang chuan he natna vei balhla chu a zung atangin a bulbal nen lam kar vek a, halral tur a ni"/>
+        android:text="@string/b2b2"/>
   </LinearLayout>

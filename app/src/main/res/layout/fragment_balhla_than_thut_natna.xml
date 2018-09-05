@@ -11,14 +11,14 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● He natna hrik ‘virus’ hi balhla rannung hrik thehdarh a ni."/>
+        android:text="@string/b2a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●Balhla zik a thang thei lova, a bawrchhawr a, a hnah a thang thei lova, leitha pek pawhin awmzia a neilo."/>
+        android:text="@string/b2a2"/>
 
 
 </LinearLayout>

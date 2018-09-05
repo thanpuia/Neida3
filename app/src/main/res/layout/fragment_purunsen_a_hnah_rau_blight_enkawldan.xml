@@ -18,20 +18,20 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Purun bul dah ro that (37 -480C vel a sa a em tur)."/>
+        android:text="@string/p3b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Purun bul chu 2-3ml Carbendazim emaw Benomyl 1ml tui litre 1 a chawhpawlha minute 5 chiah tur."/>
+        android:text="@string/p3b2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Thlai dahthatna hi hmun ro leh thengthaw nuam ani tur a ni."/>
+        android:text="@string/p3b3"/>
 
 </LinearLayout>

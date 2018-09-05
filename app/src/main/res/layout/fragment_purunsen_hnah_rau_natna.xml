@@ -11,13 +11,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Hnah thar 4-5 rawn chawr tirh atang in a intan tlangpui."/>
+        android:text="@string/p4a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Hnah chu a eng leh serthlum rawng in a rawn kap tan a, a rei hnu ah rawng uk lama inthlak in, a lo lawng chho ta thin ani."/>
+        android:text="@string/p4a2"/>
 
 </LinearLayout>

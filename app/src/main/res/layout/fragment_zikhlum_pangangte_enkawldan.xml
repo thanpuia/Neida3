@@ -12,6 +12,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Malathion emaw Parathion emaw 2gm, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni."/>
+        android:text="@string/z6c1"/>
 
 </LinearLayout>

@@ -10,12 +10,12 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Thlai hrik te reuh te, hring eng lam an ni."/>
+        android:text="@string/z5a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Thlai peng hrang hrang an zuk thin a,a hlumah an lut a,an eichhe thin"/>
+        android:text="@string/z5a2"/>
 </LinearLayout>

@@ -12,12 +12,12 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●A hmun thlawh fai that reng tur."/>
+        android:text="@string/b8c1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●  A nasat na hmunah chuan Carbaryl WP tui litre 1 ah 1gm zel pawlh a hman tur."/>
+        android:text="@string/b8c2"/>
 </LinearLayout>

@@ -11,13 +11,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Balhla par leh hnah hrisel loh paih vek tur a ni."/>
+        android:text="@string/b5c1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A enkawl nan Triazophos 42.8% E C chu 85ml, tui litre 100 chawhpawlh a kah tur a ni."/>
+        android:text="@string/b5c2"/>
 
 </LinearLayout>

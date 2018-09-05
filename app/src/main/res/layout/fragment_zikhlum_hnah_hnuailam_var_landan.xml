@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Thlai hnahah chuan te reuh te te in a var tliah tlaih a,a par leh a peng hrang hrangte a chhah tup thin."/>
+        android:text="@string/z4a1"/>
 
 </LinearLayout>

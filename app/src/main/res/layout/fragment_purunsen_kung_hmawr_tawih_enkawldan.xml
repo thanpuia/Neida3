@@ -11,21 +11,21 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● A chi tha chauh hmun kanghlang ah kui tur ani."/>
+        android:text="@string/p1b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Ekdur lei tha tawih tha tak chauh hman tur ani."/>
+        android:text="@string/p1b2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A kung dinglaiah Copper Oxychloride 3gm tui litre khata pawlhin  kah tur a ni."/>
+        android:text="@string/p1b3"/>
 
 
 </LinearLayout>

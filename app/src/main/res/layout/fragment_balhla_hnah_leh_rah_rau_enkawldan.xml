@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Rannung thahna hlo Chlorothanlonil (0.2%), 2ml emaw Bavistin (1 %), 1ml, tui litre 1 pawlh a, kar 2 dana kah thin tur a ni."/>
+        android:text="@string/b4b1"/>
 
 </LinearLayout>

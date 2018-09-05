@@ -53,7 +53,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Vutbuak (Powdery mildew)"
+                android:text="@string/t1"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -72,7 +72,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A hnah kir (Leaf curl)"
+                android:text="@string/t2"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -91,8 +91,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="  A hnah rau/ eng (papaya mosaic)
-"
+                android:text="@string/t3"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -111,7 +110,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A rah natna (Anthracnose)"
+                android:text="@string/t4"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -160,7 +159,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A hnah leh rah bawmtu var (Papaya mealybug)"
+                android:text="@string/t5"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -179,7 +178,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A thlawk var (papaya whitefly)"
+                android:text="@string/t6"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -198,7 +197,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Khau (Grasshopper)"
+                android:text="@string/t7"
                 android:layout_marginLeft="15dp"/>
 
             <Space
@@ -217,7 +216,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A hnah tuihnang dâwttu(Aphids)"
+                android:text="@string/t8"
                 android:layout_marginLeft="15dp"/>
 
             <Space

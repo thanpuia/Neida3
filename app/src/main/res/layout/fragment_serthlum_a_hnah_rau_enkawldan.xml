@@ -11,13 +11,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Virus pawisa lo rootstock Rough Lemon, Sweet Orange, Rangpur Lime leh a dangte hman a, an ngeih loh zawng Sour Orange leh Sweet Lime te hman loh tur."/>
+        android:text="@string/s3b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Natna theh darhtu rannung te thah tur."/>
+        android:text="@string/s3b2"/>
 
 </LinearLayout>

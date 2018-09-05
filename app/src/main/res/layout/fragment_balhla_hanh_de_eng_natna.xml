@@ -11,28 +11,28 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hnah tlan zai zai hi a ro a, a thler bawk thin."/>
+        android:text="@string/b3a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hnah pumpui a ukin a de thluah thluah a, hei vang hian a boruak hip a tibuai a,a rah a te in a chhe hle thin."/>
+        android:text="@string/b3a2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A nasat phei chuan a hnah te lo ro in a tawih bawk thin ani."/>
+        android:text="@string/b3a3"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Balhla rah inkhai mek pawh a tuk a hun theilo a ni."/>
+        android:text="@string/b3a4"/>
 
 
 

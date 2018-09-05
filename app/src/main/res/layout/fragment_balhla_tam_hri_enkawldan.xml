@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● A tirah a hnah chang lo eng in a ro a,a hnah te a tliak zui ta thin a ni."/>
+        android:text="@string/b1b1"/>
 
 
 
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A nasat chuan a hnah no leh chang tawh te an lo ro a, a uai hnup thin ani."/>
+        android:text="@string/b1b2"/>
 
     <TextView
         android:layout_width="wrap_content"

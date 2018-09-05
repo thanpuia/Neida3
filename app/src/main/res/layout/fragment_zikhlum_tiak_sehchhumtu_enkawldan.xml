@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Phun hmain hnim zawng zawng paih fai vek tur."/>
+        android:text="@string/z8c1"/>
 
 
 
@@ -20,14 +20,14 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Thlai phun tlai, tui luan kawrh thalo, leitha pek nasat lutuk leh tui pek zin lutuk pumpelh vek tur a ni."/>
+        android:text="@string/z8c2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Malathion emaw Parathion emaw 2gm, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni. thin."/>
+        android:text="@string/z8c3"/>
 
 
 </LinearLayout>

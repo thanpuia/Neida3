@@ -11,20 +11,20 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Balhla hmun thlawh faia,a hungah balhla kung leh a hnah chheh hnawk loh tur a ni."/>
+        android:text="@string/b7c1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●   Tuaingawt in a sehchhiat balhla kung leh a hnah chan darha, pangang leh tuaingawt mana rah hlum vek tur."/>
+        android:text="@string/b7c2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Kutkawr bun chungin emaw, saranga kut tuam chungin emaw Furadon 3G (Carbofuran) chu balhla zikah leh a kungin a hnah athlawpna laiah sawk khat lek lekin dah tur a ni."/>
+        android:text="@string/b7c3"/>
 
 </LinearLayout>

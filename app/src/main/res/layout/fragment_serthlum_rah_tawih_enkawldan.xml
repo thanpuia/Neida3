@@ -11,12 +11,12 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tui tling thei lo tura siam a, a kung bul tihro that."/>
+        android:text="@string/s5b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Copper Oxychloride (Blitox) chu 2.5gm tui litre khata pawlhin, ser rah laia kah a, ni 7 hnua kah nawn leh tur a ni."/>
+        android:text="@string/s5b2"/>
 </LinearLayout>

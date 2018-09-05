@@ -45,7 +45,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A tam hri (Panama wilt)"
+                        android:text="@string/b1"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -64,7 +64,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Balhla than thu (Bunchy top)"
+                        android:text="@string/b2"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -83,7 +83,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A hnah de eng (Sigatoka leaf spot)"
+                        android:text="@string/b3"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -102,7 +102,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="A hnah leh Rah rau (Anthracnose)"
+                        android:text="@string/b4"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -140,7 +140,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="BANANA THRIPS (A par leh a rah tirangtu)"
+                        android:text="@string/b5"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -159,7 +159,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="BANANA APHID (A tui hnang dawttu hrik) "
+                        android:text="@string/b6"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -178,7 +178,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="PSEUDOSTEM BORER (A bulbal / Kung khertu tuaingawt)"
+                        android:text="@string/b7"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -197,7 +197,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="FRUIT AND LEAF SCARRING BEETLE (A hnah leh rah ti rangtu keltelaimawn)"
+                        android:text="@string/b8"
                         android:layout_marginLeft="15dp"/>
 
                     <Space

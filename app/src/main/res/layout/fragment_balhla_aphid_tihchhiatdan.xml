@@ -25,21 +25,21 @@
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/textSize"
                 android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-                android:text="   ● Balhla hnah khawr/zik kir natna, hri pu darh tu an ni."/>
+                android:text="@string/b6b1"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/textSize"
                 android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-                android:text="   ●  A tuihnang an dawt mai bakah balhla natna awmtirtu Virus a theh darh bawk a ni."/>
+                android:text="@string/b6b2"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/textSize"
                 android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-                android:text="   ●  He virus hi balhla zik bawrchhawr natna ‘Bunchy top’ awmtir tu ber ani."/>
+                android:text="@string/b6b3"/>
 
 
         </LinearLayout>

@@ -15,13 +15,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Zikhlum hnah  pawnlang deuh te chu phunsawn hnu ah pawh a la sen laiin an ei chhe thin."/>
+        android:text="@string/z5b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Seng tlai deuh leh a chawrno te pawh a hrik hian a bawm a, a tui an hip thin."/>
+        android:text="@string/z5b2"/>
 
 </LinearLayout>

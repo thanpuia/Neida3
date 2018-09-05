@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●  A pui chu balhla hunga a hnah leh a kung tawihah a tui a, a tui keu velah a pangang kha balhla kungah lawnin a kung a hreuh thin,a a pangang hi balhla khertu,a tingettu ber an ni."/>
+        android:text="@string/b7b1"/>
 
 
     <TextView
@@ -24,5 +24,5 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●  A kung leh a hnah na hreuh a,a hnah chu a tliak a,a pangang awmna lai hi a tawih thin a ni."/>
+        android:text="@string/b7b2"/>
 </LinearLayout>

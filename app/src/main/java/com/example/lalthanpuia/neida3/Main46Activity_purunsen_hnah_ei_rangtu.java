@@ -87,7 +87,7 @@ public class Main46Activity_purunsen_hnah_ei_rangtu extends AppCompatActivity {
 
         @Override
         public int getCount() {
-            // Show2  total pages.
+            // Show 3  total pages.
             return 3;
         }
     }

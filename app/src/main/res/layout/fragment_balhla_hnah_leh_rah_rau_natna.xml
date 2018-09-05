@@ -11,19 +11,19 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Balhla rah hmin pilah dum bial a lo insiam a,a hmel a timawi lo thin a ni."/>
+        android:text="@string/b4a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A nasatnaah chuan a pil zawng zawng hi a dum deuh vek a, a nem tawih deuh in fungus pawh a lo lang thei thin."/>
+        android:text="@string/b4a2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● He natna hi a tetlaia awm a nih avangin,a hmin hnu ah pawh a lo lang chhuak nghal mai thin ani."/>
+        android:text="@string/b4a3"/>
 </LinearLayout>

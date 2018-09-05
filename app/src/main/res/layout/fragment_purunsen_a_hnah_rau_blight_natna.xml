@@ -11,13 +11,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Hnah kawm, kir leh eng lo insiam in a nghawng lam chu a nih tur bak aia nasa in a lo sei thin."/>
+        android:text="@string/p3a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A bul a te a, seng hma in a tawih tlangpui a, seng hnu a dahthatna hmunah pawh a tawih zui zel bawk."/>
+        android:text="@string/p3a2"/>
 
 </LinearLayout>

@@ -11,27 +11,27 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● A kung hrisel lo ho zawng chu lak khawm a hal tur ani."/>
+        android:text="@string/p7c1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Seng zawh velah lei atanga lak sawn nghal thin tur ani."/>
+        android:text="@string/p7c2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Hnim thlawh fai that tur."/>
+        android:text="@string/p7c3"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Dimethoate emaw Imidacloprid chu 2ml, tui litre 1 a pawlhin a nasat viau naah kah tur a ni."/>
+        android:text="@string/p7c4"/>
 
 </LinearLayout>

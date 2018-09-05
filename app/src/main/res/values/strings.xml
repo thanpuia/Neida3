@@ -142,6 +142,281 @@
     <string name="v8c1">  ● Viral natna an put darh thin avangin Aphids awmna re re chu pawh phawi a halral thin tur a ni.</string>
     <string name="v8c2">  ● Imidachlorprid @1.5ml/L emaw Acetamiprid @ 1gm/L hi a tha hle bawk tur.</string>
 
+    <string name="b1">A tam hri (Panama wilt)</string>
+    <string name="b2">Balhla than thu (Bunchy top)</string>
+    <string name="b3">A hnah de eng (Sigatoka leaf spot)</string>
+    <string name="b4">A hnah leh Rah rau (Anthracnose)</string>
+    <string name="b5">BANANA THRIPS (A par leh a rah tirangtu)</string>
+    <string name="b6">BANANA APHID (A tui hnang dawttu hrik)</string>
+    <string name="b7">PSEUDOSTEM BORER (A bulbal / Kung khertu tuaingawt)</string>
+    <string name="b8">FRUIT AND LEAF SCARRING BEETLE (A hnah leh rah ti rangtu keltelaimawn)</string>
+
+    <string name="b1a1">  ● A tirah a hnah chang lo eng in a ro a,a hnah te a tliak zui ta thin a ni.</string>
+    <string name="b1a2">  ● A nasat chuan a hnah no leh chang tawh te an lo ro a, a uai hnup thin ani.</string>
+    <string name="b1a3">  ● A hnah bakah a kung a thler in, han tanchhum hian a kung kha a tan chhumna laiah khan a duk thluah thluah in a rimchhe hle thin bawk ani. </string>
+    <string name="b1b1">  ● Natna vei balhla kung kha kar a, vaua paih mai tur a ni.</string>
+    <string name="b1b2">  ● Natna vei a la tam loh chuan taidarh zel tur vennan Bavistin (Carbendazim), 3g leh tui 1 litre pawlha kah tur a ni.</string>
+
+    <string name="b2a1">  ● He natna hrik ‘virus’ hi balhla rannung hrik thehdarh a ni.</string>
+    <string name="b2a2">  ● Balhla zik a thang thei lova, a bawrchhawr a, a hnah a thang thei lova, leitha pek pawhin awmzia a neilo.</string>
+    <string name="b2b1">  ● A natna damdawi nena enkawl dam chi a ni lo.</string>
+    <string name="b2b2">  ● Chuvang chuan he natna vei balhla chu a zung atangin a bulbal nen lam kar vek a, halral tur a ni</string>
+
+    <string name="b3a1">  ● A hnah tlan zai zai hi a ro a, a thler bawk thin.</string>
+    <string name="b3a2">  ● A hnah pumpui a ukin a de thluah thluah a, hei vang hian a boruak hip a tibuai a,a rah a te in a chhe hle thin.</string>
+    <string name="b3a3">  ● A nasat phei chuan a hnah te lo ro in a tawih bawk thin ani.</string>
+    <string name="b3a4">  ● Balhla rah inkhai mek pawh a tuk a hun theilo a ni</string>
+    <string name="b3b1">  ● A hnah ro sahthlak a, halrak vek tur.</string>
+    <string name="b3b2">  ● A nasat dawn chuan Bordeaux mixture 2:2:250 in kah tur. Hei hi a awmloh chuan Dithane M45 pawh a hman theih tho bawk.</string>
+
+    <string name="b4a1">  ● Balhla rah hmin pilah dum bial a lo insiam a,a hmel a timawi lo thin a ni.</string>
+    <string name="b4a2">  ● A nasatnaah chuan a pil zawng zawng hi a dum deuh vek a, a nem tawih deuh in fungus pawh a lo lang thei thin.</string>
+    <string name="b4a3">  ● He natna hi a tetlaia awm a nih avangin,a hmin hnu ah pawh a lo lang chhuak nghal mai thin ani.</string>
+    <string name="b4b1">  ● Rannung thahna hlo Chlorothanlonil (0.2%), 2ml emaw Bavistin (1 %), 1ml, tui litre 1 pawlh a, kar 2 dana kah thin tur a ni.</string>
+
+    <string name="b5a1">  ● A puitling chu a eng dal deuh, thla nei an ni.</string>
+    <string name="b5b1">  ● Balhla rah hel pil pawn hi an ei ber a an tihmelhem bawk thin.</string>
+    <string name="b5b2">  ● A puitling hian a rah insiam tur hi an bawmin an zuk a, an tui a, a note lo piang a, chu chuan a pil chu an ei chhunzawm thin a ni.</string>
+    <string name="b5c1">  ● Balhla par leh hnah hrisel loh paih vek tur a ni.</string>
+    <string name="b5c2">  ● A enkawl nan Triazophos 42.8% E C chu 85ml, tui litre 100 chawhpawlh a kah tur a ni.</string>
+
+    <string name="b6a1">  ● Hrik te reuh te te an ni a, hrikhrah ang tak, balhla kungah te,a hnah ah te,a zikah te a vui ah te a tuihnang an dawt thin a ni.</string>
+    <string name="b6b1">  ● Balhla hnah khawr/zik kir natna, hri pu darh tu an ni.</string>
+    <string name="b6b2">  ● A tuihnang an dawt mai bakah balhla natna awmtirtu Virus a theh darh bawk a ni.</string>
+    <string name="b6b3">  ● He virus hi balhla zik bawrchhawr natna ‘Bunchy top’ awmtir tu ber ani.</string>
+    <string name="b6c1">  ● A lo tam viau chuan rannungthahna hlo kah tur a ni</string>
+    <string name="b6c2">  ● A hrik enkawl nan Rogor emaw Malathion tui litre 1 ah 2gm pawlh a kah tur.</string>
+    <string name="b6c3">  ● Tin, Furadon hi a tha hle bawk. Furadon 50 gm kung khat atan a tawk vel a ni.</string>
+
+    <string name="b7a1">  ● A pui chu tuaingawt dum a ni.</string>
+    <string name="b7b1">  ● A pui chu balhla hunga a hnah leh a kung tawihah a tui a, a tui keu velah a pangang kha balhla kungah lawnin a kung a hreuh thin,a a pangang hi balhla khertu,a tingettu ber an ni.</string>
+    <string name="b7b2">  ● A kung leh a hnah na hreuh a,a hnah chu a tliak a,a pangang awmna lai hi a tawih thin a ni.</string>
+    <string name="b7c1">  ● Balhla hmun thlawh faia,a hungah balhla kung leh a hnah chheh hnawk loh tur a ni.</string>
+    <string name="b7c2">  ● Tuaingawt in a sehchhiat balhla kung leh a hnah chan darha, pangang leh tuaingawt mana rah hlum vek tur.</string>
+    <string name="b7c3">  ● Kutkawr bun chungin emaw, saranga kut tuam chungin emaw Furadon 3G (Carbofuran) chu balhla zikah leh a kungin a hnah athlawpna laiah sawk khat lek lekin dah tur a ni.</string>
+
+    <string name="b8a1">  ● Sephung chikhat  balhla rah leh a hnah khel rang t uber an ni.</string>
+    <string name="b8b1">  ● He rannung hian balhla hnah no leh rah no pil te an ei a, a ti rang thin.</string>
+    <string name="b8b2">  ● A rah pil an ei tial avangin balhla hralh a ti harsa ve thin.</string>
+    <string name="b8b3">  ● Ruahtui tlak laiin an pung nasa.</string>
+    <string name="b8c1">  ● A hmun thlawh fai that reng tur.</string>
+    <string name="b8c2">  ● A nasat na hmunah chuan Carbaryl WP tui litre 1 ah 1gm zel pawlh a hman tur.</string>
+
+
+    <string name="p1">A kung hmawr tawih (Damping off)</string>
+    <string name="p2">A hnah tawih (Purple blotch)</string>
+    <string name="p3">A hnah rau val kual (Stemphylium leaf blight)</string>
+    <string name="p4">A hnah rau (Collectotrichum blight/ anthracnose)</string>
+    <string name="p5">A hnah uai/vuai (Downy mildew)</string>
+    <string name="p6">A hnah ei rangtu rannungte (Thrips)</string>
+    <string name="p7">A hnah hreuh rangtu (Allium Leaf miner)</string>
+    <string name="p8">Purun lung (Onion maggot)</string>
+    <string name="p9">A tiak sehchhumtu pangang (Cutworm)</string>
+
+    <string name="p1a1">A chi  alo rawp tial tial a, tiak tur a awm lo thin .</string>
+    <string name="p1a2">Lei seh chinah a tawih a, a kung a tlu in a thi zui thin.</string>
+    <string name="p1b1">A chi tha chauh hmun kanghlang ah kui tur ani.</string>
+    <string name="p1b2">Ekdur lei tha tawih tha tak chauh hman tur ani.</string>
+    <string name="p1b3">A kung dinglaiah Copper Oxychloride 3gm tui litre khata pawlhin  kah tur a ni. </string>
+
+    <string name="p2a1">Purun hnah leh a par chawitu kuangah te tlem a khuar deuhin a rawn val thliah thliah a,a ro zui thin.</string>
+    <string name="p2a2">Seng hnuah a dahkhawmna hmunah a tawih chhunzawm duh hle</string>
+    <string name="p2b1">Leilung chu tha taka leh phut in, Thlai chi a hun taka thlak tur a ni.</string>
+    <string name="p2b2">Thlai chi phun tur chu natna lakah a him tur a ni</string>
+    <string name="p2b3">Rannung thahna hlo Mancozeb emaw Chlorothalonil emaw Iprodione emaw Copper Oxychloride 2ml, tui litre 1 a pawlhin natna lan velah kah tur a ni</string>
+
+    <string name="p3a1">Hnah thar 4-5 rawn chawr tirh atang in a intan tlangpui.</string>
+    <string name="p3a2">Hnah chu a eng leh serthlum rawng in a rawn kap tan a, a rei hnu ah rawng uk lama inthlak in, a lo lawng chho ta thin ani.</string>
+    <string name="p3b1">Thianghlimna ngaih pawimawh tur, hnim leh rannung lakah ven tur.</string>
+    <string name="p3b2">Tui luan ralna tha tawk tak siama, bit lutuk lo a phun tur.</string>
+    <string name="p3b3">A nasat naah chuan phun anih atanga ni 60 hnu a tan in Mancozeb 2-3 ml tui litre 1 a pawlh,  ni 20 danah kah thin tur ani</string>
+
+    <string name="p4a1">Hnah kawm, kir leh eng lo insiam in a nghawng lam chu a nih tur bak aia nasa in a lo sei thin.</string>
+    <string name="p4a2">A bul a te a, seng hma in a tawih tlangpui a, seng hnu a dahthatna hmunah pawh a tawih zui zel bawk.</string>
+    <string name="p4b1">Huan bul leh a vel tih fai that.</string>
+    <string name="p4b2">Purun bul dah ro that (37 -480C vel a sa a em tur).</string>
+    <string name="p4b3">Purun bul chu 2-3ml Carbendazim emaw Benomyl 1ml tui litre 1 a chawhpawlha minute 5 chiah tur.</string>
+    <string name="p4b4">Thlai dahthatna hi hmun ro leh thengthaw nuam ani tur a ni.</string>
+
+    <string name="p5a1">A hnah hnuai lamah hmuar hri a to phuar thin a ni</string>
+    <string name="p5b1">Purun seng na hnu leh hnah ro te lakkhawm a halral tur.</string>
+    <string name="p5b2">A natna hrik tawm theihna chi hnim reng reng tih fai vek tur.</string>
+    <string name="p5b3">Purun chu Ziram emaw Mancozeb emaw Chlorothalonil emaw Metalaxyl MZ – 72  litre 1 a pawlh dal a, kah tur ani.</string>
+    <string name="p5b4">A bul chu tui sa (43oC to 45oC) a darkar 8 chiah hnu ah fungicide hmanga sawngbawl tur.</string>
+
+    <string name="p6a1">Rannung te tak te, mit lawng a hmuh har tak an ni.</string>
+    <string name="p6b1">Purun hnah leh a kuang no laiah hreuhin a ro thin a ni.</string>
+    <string name="p6b2">A nasatnaah chuan a kung a tlu a, purun a insiam puitling theilo </string>
+    <string name="p6c1">Rannung tangkai chi hrang hrang-maimawm te, daidep te leh a dang ho chu zuah hram hram zel tur a ni. </string>
+    <string name="p6c2">Rannung thahna hlo Dimethoate chu 2ml, tui litre 1 a pawlhin a nasat viau naah kah tur a ni.</string>
+
+    <string name="p7a1">A puitling chu rawng dum paw lam deuh a lu lam rawng lar lampang, thlawk chi an ni</string>
+    <string name="p7b1">A kal kual velna hnuhma chu a zuk ro a,kalkawng angin a inchap vel nuai thin.</string>
+    <string name="p7b2">A kung a te in a thang theilo a, a rei hnu ah a lo ro ta thin ani.</string>
+    <string name="p7c1">A kung hrisel lo ho zawng chu lak khawm a hal tur ani.</string>
+    <string name="p7c2">Seng zawh velah lei atanga lak sawn nghal thin tur ani.</string>
+    <string name="p7c3">Hnim thlawh fai that tur.</string>
+    <string name="p7c4">Dimethoate emaw Imidacloprid chu 2ml, tui litre 1 a pawlhin a nasat viau naah kah tur a ni.</string>
+
+    <string name="p8a1">Tho chikhat, purun eichhetu a ni.</string>
+    <string name="p8b1">A lung chu a hnah kara lutin a zung atanga ker tannin a ei chhe  thin.</string>
+    <string name="p8b2">A kherna hnuhma atangin natna hrik dang te lutin chhiatna nasa zawk a thlen thin.</string>
+    <string name="p8c1">Purun chinna lai thlawh fai reng tur.</string>
+    <string name="p8c2">Tui tlinglo tura siam a,a tawk chauh a tui pek tur</string>
+    <string name="p8c3">A bul inhlat tawk tura phun tur, a hun takah a tiak phunsawn tur</string>
+
+    <string name="p9a1">Pangang chu vutbuak, a duma tial a ni.</string>
+    <string name="p9b1">A pangang chuan a hnah a ei chhum  thin.</string>
+    <string name="p9b2">Chawhnu lamah an che chhuak deuh ber a, zan lamah lei ah a tawm bo thin.</string>
+    <string name="p9c1">A hun taka phun tur ani a, leitha(Fertilizer) pek tlem tur</string>
+    <string name="p9c2">Malathion emaw Parathion emaw 2gm, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni.</string>
+
+
+    <string name="s1">A kung hnai la (Gummosis)</string>
+    <string name="s2">Kumthu (Sooty mould)</string>
+    <string name="s3">A hnah rau (Citrus tristeza)</string>
+    <string name="s4">Vutbuak (Powdery mildew)</string>
+    <string name="s5">A rah tawih ( Fruit rot)</string>
+    <string name="s6">Katnelh, a dâwttu (Citrus psylla)</string>
+    <string name="s7">A hnah hreuh rangtu (Citurs leaf miner)</string>
+    <string name="s8">A kung kertu (Trunk borer)</string>
+    <string name="s9">Serthlum rah dawttu(Citrus fruit bug)</string>
+    <string name="s10">Serthlum rah dawttu, lungphur-thlahtu (Fruit sucking moth)</string>
+
+    <string name="s1a1">Ser kung, leiseh chinah a rawn lawng a, a kawr rawn khiin a rawn hnai tuam tuam thin.</string>
+    <string name="s1a2">A nasat hnu chuan a tang a ro va, a kung pumpuiin a thih phah thin.</string>
+    <string name="s1b1">Hlo thlawh leh leitha pekin ser zung chaw hipna tihpem/tihchhum loh tur.</string>
+    <string name="s1b2">Hnai sa-um ang deuh lo chhuahna a pil kha chemte hriam taka ziah thlak a, tihfai hnuah Ridomil MZ-72 @ 2gm tui 1 litre emaw Bordeaux paste bel tur.</string>
+    <string name="s1b3">Ser kung atanga 60-100cm chin chu ruahtui tlak hma leh hnuah Bordeaux paste kum 1-ah vawi thum hnawih ziah tur.</string>
+
+    <string name="s2a1">Ser hnah leh a tang bakah, a rahah te hmuar dumin a bawh vak thin. </string>
+    <string name="s2a2">Thlai thawkna leh boruak lak luh a tibuai thin.</string>
+    <string name="s2a3">He’ng vang hian ser than a tha lovin, a rah te pawhin a tuar thei ve a ni. </string>
+    <string name="s2b1">A zar thlak (pruning) ngun tur.</string>
+    <string name="s2b2">Rannung awm reng reng damdawia kah tur.</string>
+    <string name="s2b3">Bordeaux mixture-a kah tur.</string>
+
+    <string name="s3a1">He virus-ina natna a thlen dan hi a ser azirin a danglam thei.</string>
+    <string name="s3a2">A hnah pumpui engin a tla a, a tang a ro thin.</string>
+    <string name="s3a3">A pil chhung lamah khuai thlar ang deuhvin khuar chek a awm thin.</string>
+    <string name="s3b1">Virus pawisa lo rootstock Rough Lemon, Sweet Orange, Rangpur Lime leh a dangte hman a, an ngeih loh zawng Sour Orange leh Sweet Lime te hman loh tur.</string>
+    <string name="s3b2">Natna theh darhtu rannung te thah tur.</string>
+
+    <string name="s4a1">Ser hnah leh a zik noah te chuan a vut buak ang maiin a var tuar thin.</string>
+    <string name="s4a2">A hnah sawng tein a rah te pawhin a tlak phah thin.</string>
+    <string name="s4a3">Ser tang chu a ler lam atangin a thi thin bawk a ni.</string>
+    <string name="s4b1">A natna lo lan veleh ni 10-12 inkar danah vawi 3 tal Calixin 1ml emaw Mancozeb 2gm leh tui 1 litre pawlhin a ser buk pumpui kah chhuah vek tur.</string>
+    <string name="s4b2">Ser rah lawh zawh veleh a tang ro, a hring china tan khalh a, Bavistin 1gm tui litre 1-in a kung pumpui uluk taka kah kim vek tur.</string>
+    <string name="s4b3">Natnain a beih nasat viau chuan Sulfex 5 gm leh tui litre 1-a kah tur a ni.</string>
+
+    <string name="s5a1">Natna lo lan dan hmasa ber chu a rah puitlingah a ni. A tawih a, a tla thin.</string>
+    <string name="s5b1">Tui tling thei lo tura siam a, a kung bul tihro that.</string>
+    <string name="s5b2">Copper Oxychloride (Blitox) chu 2.5gm tui litre khata pawlhin, ser rah laia kah a, ni 7 hnua kah nawn leh tur a ni.</string>
+
+    <string name="s6a1">A puitling hi rawng buang, lu zum, taksa aia thla sei an ni.</string>
+    <string name="s6a2">A note erawh chu  phek, bial deuh, hrik ang tak, serthlum rawng an ni thung.</string>
+    <string name="s6b1">Serthlum hnah tui hnang an dawt a, a hnah kir, tla leh tang ro a awmtir thin.</string>
+    <string name="s6b2">Khawizu ang tak var an tichhuak a, chu chuan hmuar dum natna a awmtir a, thlai chaw siam a tibuai nasa hle.</string>
+    <string name="s6b3">Hnah hring hrisel lo natna thlentu ‘Virus’ theh darhtu a ni.</string>
+    <string name="s6c1">Rogor (67ml) emaw Malathion 50ml emaw tui litre 50-a pawlha vawi thum kah tur.</string>
+    <string name="s6c2">Feb-March (Chawr no lai), May-June (fur ruah tlak hma), July- August (fur ruah tlak hnu)-a kah tur.</string>
+    <string name="s6c3">Nuvacron 10ml emaw Malathion 6.5ml emaw leh tui litre 10 pawlha kah tur.</string>
+
+    <string name="s7a1">A pangang chu a tet laiin a var a, a len hnuah a eng emaw a hring dang emaw a ni thin.</string>
+    <string name="s7a2">A puitling chu lungphur te tak te, mit dum, thla hniar var, a hmawr val dum a ni.</string>
+    <string name="s7b1">Ser hnah hreuhtu a ni a, ser hnahah chuan hnapkhawn vahna hnu ni awm takin a rang riak thin.</string>
+    <string name="s7c1">Rogor (67ml) emaw Malathion 10ml emaw tui litre 10-a pawlha vawi thum kah tur.</string>
+    <string name="s7c2">Neem cake 300gm, tui litre 5-a pawlh emaw Dimecron 1.22 ml, tui litre 1-a pawlh emawa kah tur.</string>
+
+    <string name="s8a1">A puitling chu sephung lam chi, che muang tak an ni.</string>
+    <string name="s8b1">Mizorama ser tichhe nasa bertu a ni.</string>
+    <string name="s8b2">A nu chu ser hawng chhungah a malin a tui a, a lungin a kung a khamphei zawnga a verh hnuin a chho zawngin a verh leh a, ser kung an ei chhe thin.</string>
+    <string name="s8b3">Ser hnah a zung tel lova ei kawlh thin an ni.</string>
+    <string name="s8c1">A kung nget kuaah tuibur emaw khaini emaw Neemazole emaw hnawh luh a, chirha bel phui tur.</string>
+    <string name="s8c2">May-June thla vela a buk sawi a, a puitling thah leh a kung nget thirzaia kawm chhuah.</string>
+    <string name="s8c3">Ser kung metre 2 chin thleng Sevin 10ml, tui litre 1-a pawlha hnawih a tha.</string>
+
+    <string name="s9a1">Hei hi Mizovin thlangdar hring kan ti.</string>
+    <string name="s9b1">Thlangdar rimchhe tak an ni a, ser rah chu a zuk thin. Ser rah tihuttu pakhat an ni.</string>
+    <string name="s9b2">Ser rah a zuk tawh apiang chu a lo bawlin a piangsual a, a kha em em thin a ni.</string>
+    <string name="s9c1">Thlangdar chu veh a, thah tur a ni.</string>
+    <string name="s9c2">Thlangdar chu veh a, thah tur a ni.</string>
+
+    <string name="s10a1">Lungphur lian, a thla serthlum rawng kai, a duma de thek.</string>
+    <string name="s10b1">Lungphurthlahtu chi khat a ni a, a pui hian ser rah chu a zukin a dawt thin. </string>
+    <string name="s10c1">Lungphur suat nan ser huanah khawnvar, electric bulb chhi i la, a hnuaiah chawhtawlh hung i la, tah chuan a khatin tui dah i la, sahbawn nuai phuan i la, khawnvartui tlem pawlh bawk tur a ni. Tichuan, rannung thlawk chu a rei hnuah tuiah chuan a tla hlum teuh mai ang. Chu chu zingah paih tur a ni.</string>
+    <string name="s10c2">A rah tlate chu chhar khawm a, paih vek tur a ni.</string>
+
+
+    <string name="t1">Vutbuak (Powdery mildew)</string>
+    <string name="t2">A hnah kir (Leaf curl)</string>
+    <string name="t3">A hnah rau/eng (papaya mosaic)</string>
+    <string name="t4">A rah natna (Anthracnose)</string>
+    <string name="t5">A hnah leh rah bawmtu var (Papaya mealybug)</string>
+    <string name="t6">A thlawk var (papaya whitefly)</string>
+    <string name="t7">Khau (Grasshopper)</string>
+    <string name="t8">A hnah tuihnang dâwttu(Aphids)</string>
+
+
+    <string name="z1">A hnah tawih (Black rot)</string>
+    <string name="z2">Hnar rau (Downy mildew)</string>
+    <string name="z3">A tiak lawng (Damping off)</string>
+    <string name="z4">A hnah hnuailam var (White rust)</string>
+    <string name="z5">Zikhlum hrik (Aphid)</string>
+    <string name="z6">Pangangte (Diamond back moth)</string>
+    <string name="z7">Hnah char khawmtu pangang (Leaf webber)</string>
+    <string name="z8">A tiak sehchhumtu pangang (Cutworm)</string>
+    <string name="z9">Pangang hring (Large white cabbage butterfly)</string>
+
+    <string name="z1a1">  ● Thlai hnahah chuan, a tlang atanga intan in, ‘V’ ang deuhin a val lut thin.</string>
+    <string name="z1a2">  ● A hnah leh a zungte chu a dum ruak thin a ni.</string>
+    <string name="z1b1">  ● Thlai chi damdawia chiah chauh kui tur.</string>
+    <string name="z1b2">  ● Natna vei Thlai chu tihral vat tur.</string>
+    <string name="z1b3">  ● Blitox-50 , 2ml chu tui litre 1 a pawhin Thlai phun atanga kar 6 naah kah tur, chumi hnu chuan ni 15 dan zela kah tur.</string>
+
+    <string name="z2a1">  ● A hnah hnuai lamah val in,heng a val laiah hian hmuar a rawn to thin.  </string>
+    <string name="z2a2">  ● A hnah hmuar te chu a ro a, a tla thin a ni.</string>
+    <string name="z2b1">  ● Hnim  thlawh fai reng tur a ni.</string>
+    <string name="z2b2">  ● Natna in abawh thlai chu Mancozeb emaw Copper Oxychloride 5gm tui litre khat a pawlh a, ni 10 danah vawi hnih kah thin tur a ni.</string>
+
+    <string name="z3a1">  ● Thlai chi chu tiak chhuak zo lo in a thi thin.</string>
+    <string name="z3a2">  ● A tiak chhuak a nih pawhin reiloteah a kung chu leiseh chinah lawngin a thi leh mai thin.</string>
+    <string name="z3b1">  ● Tui tling a awm tur a nilo</string>
+    <string name="z3b2">  ● Lei sawngbawl nan Dithane M 45 emaw Bavistin emaw 2gm tui litre khat a pawlh a,lei ah leih tur a ni.</string>
+    <string name="z3b3">  ● A tawih a awm chuan paih tur a ni.</string>
+
+    <string name="z4a1">  ● Thlai hnahah chuan te reuh te te in a var tliah tlaih a,a par leh a peng hrang hrangte a chhah tup thin.</string>
+    <string name="z4b1">  ● Natna in a bawm hnah chu paih vek tur</string>
+    <string name="z4b2">  ● Natna in a bawh Thlai chu Mancozeb emaw Copper Oxychloride 5gm tui litre khat a pawlh a, ni 10 danah vawi hnih kah thin tur a ni</string>
+
+    <string name="z5a1">  ● Thlai hrik te reuh te, hring eng lam an ni</string>
+    <string name="z5a2">  ● Thlai peng hrang hrang an zuk thin a,a hlumah an lut a,an eichhe thin.</string>
+    <string name="z5b1">  ● Zikhlum hnah  pawnlang deuh te chu phunsawn hnu ah pawh a la sen laiin an ei chhe thin.</string>
+    <string name="z5b2">  ● Seng tlai deuh leh a chawrno te pawh a hrik hian a bawm a, a tui an hip thin.</string>
+    <string name="z5c1">  ● Neemazal 2ml, tui litre 1 a chawhpawlhin chawlh kar danah kah thin tur a ni</string>
+    <string name="z5c2">  ● Malathion emaw Parathion emaw 2gm, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni.</string>
+
+    <string name="z6a1">  ● Pangang hring te reuh te te an ni a, a huho a khawsa thin an ni.</string>
+    <string name="z6b1">  ● A kuang ah emaw phunsawn hnuah emaw a hnah an seh pawpin a zik pawh a rawt hial thin.</string>
+    <string name="z6c1">  ● Malathion emaw Parathion emaw 2gm, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni.</string>
+
+    <string name="z7a1">  ● Pangang chu a hring, a var a tial a ni.</string>
+    <string name="z7b1">  ● Pangang ina a sehna chu a kawlh rul zel a ni.</string>
+    <string name="z7b2">  ● Maimawm ril angin a hnah a zial khawr thin.</string>
+    <string name="z7c1">  ● A Hnah tla leh tawih chu paih fai vek tur</string>
+    <string name="z7c2">  ● Lungphur chu man a, thah tur</string>
+    <string name="z7c3">  ● Chlorpyriphos 20 % EC 2ml, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni.</string>
+
+    <string name="z8a1">  ● Pangang chu vutvuak, a duma tial a ni</string>
+    <string name="z8b1">  ● Phunsawn hlim ah leh a hnu deuhah a lei seh chinah an chilh chhum thin.</string>
+    <string name="z8c1">  ● Phun hmain hnim zawng zawng paih fai vek tur.</string>
+    <string name="z8c2">  ● Thlai phun tlai, tui luan kawrh thalo, leitha pek nasat lutuk leh tui pek zin lutuk pumpelh vek tur a ni.</string>
+    <string name="z8c3">  ● Malathion emaw Parathion emaw 2gm, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni.</string>
+
+    <string name="z9a1">  ● Pangang chu rawng hring tak lam leh dum a in chawih, hmul deuh thep ani.</string>
+    <string name="z9b1">  ● Phunsawn hnuah a hnah tlang atanga ei tan in a kuang chauh zuahin an ei filh vek thin.</string>
+    <string name="z9c1">  ● A pangang chu a theih ang anga man khawm a, thah tur.</string>
+    <string name="z9c2">  ● Seng hma kar thum la awm ah Malathion 1ml tui litre 1 a pawlh in kah tur ani. </string>
 
     <string name="title_activity_main61_vaimim__kuang_tawih">Main61Activity_vaimim_KuangTawih
     </string>
@@ -153,6 +428,11 @@
     </string>
     <string name="title_activity_main65_vaimim_kau_eitu">Main65Activity_vaimim_kau_eitu</string>
     <string name="title_activity_main66_vaimim_pangan_hmul">Main66Activity_vaimim_pangan_hmul
+    </string>
+    <string name="title_activity_main56_serthlum_katnei">Main56Activity_serthlum_katnei</string>
+    <string name="title_activity_main57_serthlum_citurs_leaf">Main57Activity_serthlum_citurs_leaf
+    </string>
+    <string name="title_activity_main57_serthlum_kung_kertu">Main57Activity_serthlum_kung_kertu
     </string>
 
 

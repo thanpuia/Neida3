@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Sephung chikhat  balhla rah leh a hnah khel rang t uber an ni."/>
+        android:text="@string/b8a1"/>
 
 
 

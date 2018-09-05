@@ -212,6 +212,18 @@
         <activity
             android:name=".Main66Activity_vaimim_pangan_hmul"
             android:label="@string/title_activity_main66_vaimim_pangan_hmul"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main56Activity_serthlum_katnei"
+            android:label="@string/title_activity_main56_serthlum_katnei"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main57Activity_serthlum_citurs_leaf"
+            android:label="@string/title_activity_main57_serthlum_citurs_leaf"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main57Activity_serthlum_kung_kertu"
+            android:label="@string/title_activity_main57_serthlum_kung_kertu"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

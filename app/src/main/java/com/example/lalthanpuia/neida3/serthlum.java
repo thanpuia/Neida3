@@ -41,12 +41,18 @@ public class serthlum extends AppCompatActivity {
     }
 
     public void katnelh_Click(View view) {
+        Intent intent = new Intent(this,Main56Activity_serthlum_katnei.class);
+        startActivity(intent);
     }
 
     public void hnahHruairangtu_click(View view) {
+        Intent intent = new Intent(this,Main57Activity_serthlum_citurs_leaf.class);
+        startActivity(intent);
     }
 
     public void kungKertuClick(View view) {
+        Intent intent = new Intent(this,Main57Activity_serthlum_kung_kertu.class);
+        startActivity(intent);
     }
 
     public void rah_dawttuClick(View view) {

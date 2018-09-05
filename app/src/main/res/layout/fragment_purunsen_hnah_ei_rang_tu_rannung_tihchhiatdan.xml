@@ -17,13 +17,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Purun hnah leh a kuang no laiah hreuhin a ro thin a ni."/>
+        android:text="@string/p6b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A nasatnaah chuan a kung a tlu a, purun a insiam puitling theilo."/>
+        android:text="@string/p6b2"/>
 
 </LinearLayout>

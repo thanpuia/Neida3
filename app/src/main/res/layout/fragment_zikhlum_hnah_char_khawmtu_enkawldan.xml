@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● A Hnah tla leh tawih chu paih fai vek tur."/>
+        android:text="@string/z7c1"/>
 
 
 
@@ -20,15 +20,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Lungphur chu man a, thah tur."/>
+        android:text="@string/z7c2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Chlorpyriphos 20 % EC 2ml, tui litre 1 a chawhpawlhin a nasat naah chauh ni 10 dana kah tur a ni."/>
-
-
+        android:text="@string/z7c3"/>
 
 </LinearLayout>

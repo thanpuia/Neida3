@@ -11,20 +11,20 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● He virus-ina natna a thlen dan hi a ser azirin a danglam thei."/>
+        android:text="@string/s3a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hnah pumpui engin a tla a, a tang a ro thin."/>
+        android:text="@string/s3a2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A pil chhung lamah khuai thlar ang deuhvin khuar chek a awm thin."/>
+        android:text="@string/s3a3"/>
 
 </LinearLayout>

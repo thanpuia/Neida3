@@ -16,14 +16,14 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A kal kual velna hnuhma chu a zuk ro a,kalkawng angin a inchap vel nuai thin."/>
+        android:text="@string/p7b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A kung a te in a thang theilo a, a rei hnu ah a lo ro ta thin ani."/>
+        android:text="@string/p7b2"/>
 
 
 </LinearLayout>

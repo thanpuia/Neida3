@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tho chikhat, purun eichhetu a ni."/>
+        android:text="@string/p8a1"/>
 
 
 </LinearLayout>

@@ -11,6 +11,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Natna lo lan dan hmasa ber chu a rah puitlingah a ni. A tawih a, a tla thin."/>
+        android:text="@string/s5a1"/>
 
 </LinearLayout>

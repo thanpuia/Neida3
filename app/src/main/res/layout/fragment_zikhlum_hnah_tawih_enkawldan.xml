@@ -10,21 +10,21 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tui tling a awm tur a nilo"/>
+        android:text="@string/z1b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Lei sawngbawl nan Dithane M 45 emaw Bavistin emaw 2gm tui litre khat a pawlh a,lei ah leih tur a ni "/>
+        android:text="@string/z1b2"/>
 
     <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:textSize="@dimen/textSize"
     android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-    android:text="   ● A tawih a awm chuan paih tur a ni."/>
+    android:text="@string/z1b3"/>
 
 
 </LinearLayout>

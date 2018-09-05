@@ -11,21 +11,21 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Thianghlimna ngaih pawimawh tur, hnim leh rannung lakah ven tur."/>
+        android:text="@string/p3b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ●Tui luan ralna tha tawk tak siama, bit lutuk lo a phun tur."/>
+        android:text="@string/p3b2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A nasat naah chuan phun anih atanga ni 60 hnu a tan in Mancozeb 2-3 ml tui litre 1 a pawlh,  ni 20 danah kah thin tur ani."/>
+        android:text="@string/p3b3"/>
 
 
 </LinearLayout>
