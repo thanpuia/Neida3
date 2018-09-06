@@ -56,8 +56,12 @@ public class serthlum extends AppCompatActivity {
     }
 
     public void rah_dawttuClick(View view) {
+        Intent intent = new Intent(this,Main59Activity_serthlum_rah_dawttu.class);
+        startActivity(intent);
     }
 
     public void rahdawttu_e_Click(View view) {
+        Intent intent = new Intent(this,Main510Activity_serthlum_moth.class);
+        startActivity(intent);
     }
 }

@@ -224,6 +224,14 @@
         <activity
             android:name=".Main57Activity_serthlum_kung_kertu"
             android:label="@string/title_activity_main57_serthlum_kung_kertu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main59Activity_serthlum_rah_dawttu"
+            android:label="@string/title_activity_main59_serthlum_rah_dawttu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main510Activity_serthlum_moth"
+            android:label="@string/title_activity_main510_serthlum_moth"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
