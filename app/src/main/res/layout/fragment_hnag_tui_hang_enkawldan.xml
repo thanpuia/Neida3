@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● A lo tam viau chuan rannungthahna hlo kah tur a ni"/>
+        android:text="@string/t8b1"/>
 
 
 
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Acetamiprid hi aphids tamna ah chuan a tangkai hle (1gm/L)."/>
+        android:text="@string/t8b2"/>
 
 
 </LinearLayout>

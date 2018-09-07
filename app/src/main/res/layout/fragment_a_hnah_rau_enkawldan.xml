@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Natna lang hmasa apiang chu pawhphawi a paih daih tur a ni"/>
+        android:text="@string/t3b1"/>
 
 
 
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tin, a natna pudarhtu rannung control nan: Carbofuran (1kg/ha) hi phun dawnin leiah theh thin tur a ni."/>
+        android:text="@string/t3b2"/>
 
 
 
@@ -29,6 +29,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Imidachlorprid (1ml/L) hi a rannung kah nan a hman theih bawk."/>
+        android:text="@string/t3b3"/>
 
 </LinearLayout>

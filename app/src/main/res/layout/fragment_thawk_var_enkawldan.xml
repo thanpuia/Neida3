@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● A lo tam viau chuan rannungthahna hlo kah tur a ni"/>
+        android:text="@string/t6c1"/>
 
 
     <TextView
@@ -19,14 +19,14 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hrik enkawl nan Rogor emaw Malathion emaw tui litre 1 ah 2gm pawlh a kah tur."/>
+        android:text="@string/t6c2"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tin, Furadon hi a tha hle bawk. Kung khat atan Furadon 50 gm a tawk vel a ni."/>
+        android:text="@string/t6c3"/>
 
 
 </LinearLayout>

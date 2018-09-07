@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.lalthanpuia.neida3">
-
+    <uses-permission android:name="android.permission.INTERNET">
+    </uses-permission>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -21,10 +22,7 @@
             android:name=".Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".A_hnah_kir"
-            android:label="@string/title_activity_a_hnah_kir"
-            android:theme="@style/AppTheme.NoActionBar" />
+
         <activity
             android:name=".Main3Activity_hnahkir"
             android:label="@string/title_activity_main3_hnahkir"
@@ -41,10 +39,7 @@
             android:name=".Main6Activity_bawmtuVar"
             android:label="@string/title_activity_main6_bawmtu_var"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".MainActivity_thlawkVar"
-            android:label="@string/title_activity_main_thlawk_var"
-            android:theme="@style/AppTheme.NoActionBar" />
+
         <activity
             android:name=".Main7Activity_thlawkVar"
             android:label="@string/title_activity_main7_thlawk_var"

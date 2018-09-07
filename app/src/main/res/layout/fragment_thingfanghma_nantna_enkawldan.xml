@@ -13,13 +13,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Natna a lo lan veleh Sulphur/Sulfex @30gm/10 Litre (tui) a kah thin tur a ni"/>
+        android:text="@string/t1b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A kah hun hi a nasat dan a zirin  ni 15 danah kah tur a ni"/>
+        android:text="@string/t1b2"/>
 
 </LinearLayout>

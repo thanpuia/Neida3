@@ -15,13 +15,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A pui hian a hnah an zuk hian an chil hmangin chemical an kap lut a, chu chuan a hnah a ti eng a, a ti kir thei bawk a, chu chuan ‘hopper burn’ a siam thin a ni."/>
+        android:text="@string/t7b1"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tin, a zik no hi an sehchum thin bawk."/>
+        android:text="@string/t7b2"/>
 
 
 

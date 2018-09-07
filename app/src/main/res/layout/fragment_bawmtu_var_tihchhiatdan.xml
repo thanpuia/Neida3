@@ -19,13 +19,13 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● Thingfanghma hnah rau an thlen thin a, hnah zam (vein) a ti eng thin bawk."/>
+        android:text="@string/t5b1"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tin, viral natna ‘mosaic’ pudarhtu an ni bawk"/>
+        android:text="@string/t5b2"/>
 
 
 

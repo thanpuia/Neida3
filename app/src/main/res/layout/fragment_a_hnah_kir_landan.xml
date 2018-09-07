@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-    android:text="  ● He viral natna hi rannung ‘whitefly’ thehdarh a ni a, a tlangpuiin a kung la nau deuh an bei thin a ni."/>
+    android:text="@string/t2a1"/>
 
 
 
@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A natna lanchhuah dan chu a hnah a lo kir a, a eng a, a nasat phei chuan an tla kawlh thin a ni"/>
+        android:text="@string/t2a2"/>
 
 </LinearLayout>

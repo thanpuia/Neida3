@@ -13,19 +13,14 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-
-        android:text="   ●     • Natna lang hmasa apiang chu pawh phawi a, paih daih tur a ni"/>
+        android:text="@string/t2b1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● Tin, a natna pu darhtu rannung control nan:
-
-    1. Carbofuran (1kg/ha) hi phun dawnin leiah theh thin tur a ni.
-    2. Imidachlorprid (1ml/L) hi a rannung kah nan a hman theih bawk.
-"/>
+        android:text="@string/t2b2"/>
 
 
 </LinearLayout>

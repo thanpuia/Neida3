@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="  ● He natna hi viral niin, rannung ‘Aphids-Hrik’ in an thehdarh thin."/>
+        android:text="@string/t3a1"/>
 
 
 
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hnah a zuk ro a, a hnah hring zam  a lo eng a, hnah dang erawh chu a hring tak nghulh thin. Tin, a hnah a chhah tup thin bawk"/>
+        android:text="@string/t3a2"/>
 
 
 </LinearLayout>
