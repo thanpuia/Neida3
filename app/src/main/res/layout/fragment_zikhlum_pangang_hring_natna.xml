@@ -13,4 +13,9 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/z9a1"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/zikhlum_hri5"
+        android:onClick="zikhlum_hri5_Click"/>
 </LinearLayout>

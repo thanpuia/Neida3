@@ -15,4 +15,10 @@
         android:text="@string/z8a1"/>
 
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/zikhlum_hri4"
+        android:onClick="zikhlum_hri4_Click"/>
+
 </LinearLayout>

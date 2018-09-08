@@ -1,5 +1,6 @@
 package com.example.lalthanpuia.neida3;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -62,12 +63,17 @@ public class Main3Activity_hnahkir extends AppCompatActivity {
             public void onClick(View view) {
           /*      Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();*/
-           whatsapp whatsappcaller= new whatsapp();
-           whatsappcaller.whatsAppSend();
+           WhatsApp whatsApp= new WhatsApp();
+           whatsApp.whatsappSend();
 
             }
         });
 
+    }
+
+    public void thingfanghmaNatna2CLick(View view) {
+        Intent intent = new Intent(this,thingfanghma_hnahkir.class);
+        startActivity(intent);
     }
 
 

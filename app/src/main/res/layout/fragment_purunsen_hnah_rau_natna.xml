@@ -20,4 +20,9 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/p4a2"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/purun_natna3"
+        android:onClick="purunnatna3Click"/>
 </LinearLayout>

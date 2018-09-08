@@ -12,4 +12,10 @@
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/t6a1"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/papaya_ipm2"
+        android:onClick="thingfanghmaNatna6CLick"/>
 </LinearLayout>

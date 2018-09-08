@@ -7,27 +7,44 @@
     android:orientation="vertical"
     android:background="@drawable/background1">
 
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:text="@string/t1a1"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:text="@string/t1a1"
+            android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"/>
 
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+            android:text="@string/t1a2"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-    android:text="@string/t1a2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+            android:text="@string/t1a3"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-    android:text="@string/t1a3"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/papaya_idm1"
+            android:layout_margin="@dimen/zoomImageMargin"
+            android:onClick="thingfanghmaNatna1CLick"/>
+
+    </LinearLayout>
+</ScrollView>
+
 </LinearLayout>

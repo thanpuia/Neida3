@@ -13,4 +13,9 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/z4a1"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/zikhlum_natna4"
+        android:onClick="zikhlumnatna4Click"/>
 </LinearLayout>

@@ -1,5 +1,6 @@
 package com.example.lalthanpuia.neida3;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -65,6 +66,11 @@ public class Main35Activity_balhla_thrips extends AppCompatActivity {
             }
         });
 
+    }
+
+    public void balhlahri1Click(View view) {
+        Intent intent = new Intent(this,img_balhla_thrips.class);
+        startActivity(intent);
     }
 
 

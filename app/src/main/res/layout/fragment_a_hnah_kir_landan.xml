@@ -6,6 +6,8 @@
     tools:context=".a_hnah_kir_landan"
     android:orientation="vertical">
 
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -21,5 +23,12 @@
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/t2a2"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/zoomImageMargin"
+        android:src="@drawable/papaya_idm2"
+        android:onClick="thingfanghmaNatna2CLick"/>
 
 </LinearLayout>

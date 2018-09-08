@@ -14,4 +14,10 @@
         android:text="@string/t7a1"/>
 
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/zoomImageMargin"
+        android:src="@drawable/papaya_ipm3"
+        android:onClick="thingfanghmaNatna7CLick"/>
 </LinearLayout>

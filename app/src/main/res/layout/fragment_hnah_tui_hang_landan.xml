@@ -15,4 +15,9 @@
         android:text="@string/t8a1"/>
 
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/papaya_ipm4"
+        android:onClick="thingfanghmaNatna8CLick"/>
 </LinearLayout>

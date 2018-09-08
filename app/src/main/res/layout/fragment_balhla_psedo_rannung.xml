@@ -13,5 +13,10 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/b7a1"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/balhla_hri3"
+        android:onClick="balhlahri3Click"/>
 
 </LinearLayout>

@@ -67,4 +67,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this,vaimim.class);
         startActivity(intent);
     }
+
+    public void whatapa(View view) {
+        WhatsApp whatsApp= new WhatsApp();
+        whatsApp.whatsappSend();
+    }
 }

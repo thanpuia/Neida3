@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.lalthanpuia.neida3">
-    <uses-permission android:name="android.permission.INTERNET">
-    </uses-permission>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -22,7 +23,6 @@
             android:name=".Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme.NoActionBar" />
-
         <activity
             android:name=".Main3Activity_hnahkir"
             android:label="@string/title_activity_main3_hnahkir"
@@ -39,7 +39,6 @@
             android:name=".Main6Activity_bawmtuVar"
             android:label="@string/title_activity_main6_bawmtu_var"
             android:theme="@style/AppTheme.NoActionBar" />
-
         <activity
             android:name=".Main7Activity_thlawkVar"
             android:label="@string/title_activity_main7_thlawk_var"
@@ -227,7 +226,36 @@
         <activity
             android:name=".Main510Activity_serthlum_moth"
             android:label="@string/title_activity_main510_serthlum_moth"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".thingfanghma_hnahkir" />
+        <activity android:name=".img_thingfanghma_vutbuak" />
+        <activity android:name=".img_thingfanghma_aHnahRau" />
+        <activity android:name=".img_thingfanghma_aRahNatna" />
+        <activity android:name=".img_thingfanghma_bawmtuVar" />
+        <activity android:name=".img_thingfanghma_thlawkVar" />
+        <activity android:name=".img_thingfanghma_khau" />
+        <activity android:name=".img_thingfanghma_hnahTuihnangDawttu" />
+        <activity android:name=".img_zikhlum_aHnahTawih" />
+        <activity android:name=".img_hnar_rau" />
+        <activity android:name=".img_zikhlum_tiakLawng" />
+        <activity android:name=".img_zikhlum_hnahHnuailamVar" />
+        <activity android:name=".img_zikhlum_zikhlumHrik" />
+        <activity android:name=".img_zikhlum_pangangte" />
+        <activity android:name=".img_zikhlum_hnahCharKhawmtu" />
+        <activity android:name=".img_zikhlum_tiakSehchhumtu" />
+        <activity android:name=".img_zikhlum_pangangHring" />
+        <activity android:name=".img_balhla_aTamHri" />
+        <activity android:name=".img_balhla_thanThu" />
+        <activity android:name=".img_balhla_hnahDeEng" />
+        <activity android:name=".img_balhla_hnahLehRahRau" />
+        <activity android:name=".img_balhla_thrips" />
+        <activity android:name=".img_balhla_aphid" />
+        <activity android:name=".img_balhla_pseudostem" />
+        <activity android:name=".img_balhla_fruitAndleadBeetle" />
+        <activity android:name=".img_purun_aKungHmawrTawih" />
+        <activity android:name=".img_purun_hnahTawih" />
+        <activity android:name=".img_purun_hnahRauValKual" />
+        <activity android:name=".img_purun_hnahRau"></activity>
     </application>
 
 </manifest>

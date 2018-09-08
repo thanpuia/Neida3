@@ -5,5 +5,6 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="appbar_padding_top">8dp</dimen>
     <dimen name="natnaButtonSize">230dp</dimen>
+    <dimen name="zoomImageMargin">5dp</dimen>
 
 </resources>
