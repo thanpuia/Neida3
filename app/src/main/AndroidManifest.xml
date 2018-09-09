@@ -255,7 +255,38 @@
         <activity android:name=".img_purun_aKungHmawrTawih" />
         <activity android:name=".img_purun_hnahTawih" />
         <activity android:name=".img_purun_hnahRauValKual" />
-        <activity android:name=".img_purun_hnahRau"></activity>
+        <activity android:name=".img_purun_hnahRau" />
+        <activity android:name=".img_purun_aHnahUai" />
+        <activity android:name=".img_purun_hnahEiRangtuRannung" />
+        <activity android:name=".img_purun_hnahHreuhRangtu" />
+        <activity android:name=".img_purun_lung" />
+        <activity android:name=".img_purun_tiakSehChhumtu" />
+        <activity android:name=".img_serthlum_aKungHnai" />
+        <activity android:name=".img_serthlum_kumthu" />
+        <activity android:name=".img_serthlum_aHnahRau" />
+        <activity android:name=".img_serthlum_vutbuak" />
+        <activity android:name=".img_serthlum_aRahTawih" />
+        <activity android:name=".img_serthlum_katneih" />
+        <activity android:name=".img_serthlum_aHnahHreuhRangtu" />
+        <activity android:name=".img_serthlum_aKungKertu" />
+        <activity android:name=".img_serthlum_rahDawttu" />
+        <activity android:name=".img_serthlum_moth" />
+        <activity android:name=".img_vaimim_aKungTawih" />
+        <activity android:name=".img_vaimim_aKuangMeihawlDum" />
+        <activity android:name=".img_vaimim_hnahRauRawngUk" />
+        <activity android:name=".img_vaimim_hnahRau" />
+        <activity android:name=".img_vaimim_aKauEitu" />
+        <activity android:name=".img_vaimim_pangang" />
+        <activity android:name=".img_vaimim_jassid" />
+        <activity
+            android:name=".Main67Activity_vaimim_jassid"
+            android:label="@string/title_activity_main67_vaimim_jassid"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main68Activity_vaimim_tuiHnangDawttu"
+            android:label="@string/title_activity_main68_vaimim_tui_hnang_dawttu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".img_vaimim_tuihangdawttu"></activity>
     </application>
 
 </manifest>

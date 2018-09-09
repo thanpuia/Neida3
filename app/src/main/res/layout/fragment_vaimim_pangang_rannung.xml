@@ -4,21 +4,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".vaimim_pangang_rannung"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/v7a1"/>
+        android:text="@string/v6a1"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="v7a2"/>
+        android:text="@string/v6a2" />
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/vaimim_hri2"
+        android:onClick="vaimimhri2Click"/>
 
 </LinearLayout>

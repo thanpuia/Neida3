@@ -4,8 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".serthlum_katneih_tihchhiatdan"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/serthlum_hri1_enkawldan"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

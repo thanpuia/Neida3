@@ -1,5 +1,6 @@
 package com.example.lalthanpuia.neida3;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -65,6 +66,11 @@ public class Main59Activity_serthlum_rah_dawttu extends AppCompatActivity {
             }
         });
 
+    }
+
+    public void serthlumhri4Click(View view) {
+        Intent intent = new Intent(this,img_serthlum_rahDawttu.class);
+        startActivity(intent);
     }
 
     public class SectionsPagerAdapter extends FragmentPagerAdapter {

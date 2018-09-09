@@ -4,31 +4,44 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".serthlum_kung_kertu_tihchhiatdan"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/serthlum_hri3_enkawldan"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/s8b1"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/s8b2"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/s8b3"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/serthlum_hri3_enkawldan"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/s8b1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/s8b2"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/s8b3"/>
+
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

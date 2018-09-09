@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".bawmtuVar_tihchhiatdan"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
     <ImageView
         android:layout_width="wrap_content"

@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".vaimim_a_kuang_meihawl_natna"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
     <TextView
         android:layout_width="wrap_content"
@@ -28,5 +29,10 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/v2a3"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/vaimim_natna2"
+        android:onClick="vaimimnatna2Click"/>
 
 </LinearLayout>

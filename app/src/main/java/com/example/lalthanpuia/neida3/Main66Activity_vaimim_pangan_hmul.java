@@ -1,5 +1,6 @@
 package com.example.lalthanpuia.neida3;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -67,6 +68,12 @@ public class Main66Activity_vaimim_pangan_hmul extends AppCompatActivity {
 
     }
 
+    public void vaimimhri2Click(View view) {
+        Intent intent = new Intent(this,img_vaimim_pangang.class);
+        startActivity(intent);
+    }
+
+
     public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
         public SectionsPagerAdapter(FragmentManager fm) {
@@ -78,8 +85,9 @@ public class Main66Activity_vaimim_pangan_hmul extends AppCompatActivity {
             Fragment fragment = null;
             switch (position){
                 case 0: fragment = new vaimim_pangang_rannung();break;
-                case 1: fragment = new vaimim_pangang_hmul_natna();break;
-                case 2: fragment = new vaimim_pangang_tihchhiatdan();break;
+                case 1: fragment = new vaimim_pangang_tihchhiatdan();break;
+                case 2: fragment = new vaimim_pangang_enkawldan();break;
+
 
             }
             return fragment;

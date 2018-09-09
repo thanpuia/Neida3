@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".purunsen_hnahEiRangTuRannung_rannung"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
     <TextView
         android:layout_width="wrap_content"
@@ -12,5 +13,11 @@
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/p6a1"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/purun_hri1"
+        android:onClick="purunhri1Click"/>
 
 </LinearLayout>

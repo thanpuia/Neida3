@@ -1,5 +1,6 @@
 package com.example.lalthanpuia.neida3;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -67,6 +68,11 @@ public class Main48Activity_purunsen_tiak_sehchhumtu extends AppCompatActivity {
 
     }
 
+    public void purunhri4Click(View view) {
+        Intent intent = new Intent(this,img_purun_tiakSehChhumtu.class);
+        startActivity(intent);
+    }
+
     public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
         public SectionsPagerAdapter(FragmentManager fm) {
@@ -77,9 +83,9 @@ public class Main48Activity_purunsen_tiak_sehchhumtu extends AppCompatActivity {
         public Fragment getItem(int position) {
             Fragment fragment = null;
             switch (position){
-                case 0: fragment = new purunsen_lung_rannung();break;
-                case 1: fragment = new purunsen_lung_tihchhiatdan();break;
-                case 2: fragment = new purunsen_lung_enkawldan();break;
+                case 0: fragment = new purunsen_tiak_sehchhumtu_rannung();break;
+                case 1: fragment = new purunsen_tiak_sehchhumtu_tihchhiatdan();break;
+                case 2: fragment = new purunsen_tiak_sehchhumtu_enkawldan();break;
             }
             return fragment;
         }     @Override

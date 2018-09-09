@@ -39,11 +39,17 @@ public class vaimim extends AppCompatActivity {
     }
 
     public void hri2_click(View view) {
+        Intent intent = new Intent(this,Main66Activity_vaimim_pangan_hmul.class);
+        startActivity(intent);
     }
 
     public void hri3_Click(View view) {
+        Intent intent = new Intent(this,Main67Activity_vaimim_jassid.class);
+        startActivity(intent);
     }
 
     public void hri4_Click(View view) {
+        Intent intent = new Intent(this,Main68Activity_vaimim_tuiHnangDawttu.class);
+        startActivity(intent);
     }
 }

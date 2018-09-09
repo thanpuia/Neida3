@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".serthlum_citurs_leaf_rannung"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
     <TextView
         android:layout_width="wrap_content"
@@ -20,4 +21,9 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/s7a2"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/serthlum_hri2"
+        android:onClick="serthlumhri2Click"/>
 </LinearLayout>

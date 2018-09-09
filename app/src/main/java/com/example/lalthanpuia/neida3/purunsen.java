@@ -46,7 +46,7 @@ public class purunsen extends AppCompatActivity {
     }
 
     public void purun_hnah_hreuh_click(View view) {
-        Intent intent = new Intent(this,Main46Activity_purunsen_hnah_ei_rangtu.class);
+        Intent intent = new Intent(this,Main47Activity_purunsen_hnah_hreuh_rangtu.class);
         startActivity(intent);
     }
 

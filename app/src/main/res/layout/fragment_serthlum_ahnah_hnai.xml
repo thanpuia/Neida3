@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".serthlum_ahnahHnai"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/bg3">
 
     <TextView
         android:layout_width="wrap_content"
@@ -19,5 +20,11 @@
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/s1a2"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/serthlum_natna1"
+        android:onClick="serthlumnatna1Click"/>
 
 </LinearLayout>
