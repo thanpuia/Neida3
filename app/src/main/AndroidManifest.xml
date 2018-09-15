@@ -29,7 +29,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Main4Activity_aHnahRau"
-            android:label="@string/title_activity_main4_a_hnah_rau"
+            android:label="Hnahrau"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Main5Activity_rahNatna"
@@ -63,6 +63,7 @@
             android:name=".Main11Activity_zikhlum_hnahRau"
             android:label="@string/title_activity_main11_zikhlum_hnah_rau"
             android:theme="@style/AppTheme.NoActionBar" />
+      
         <activity
             android:name=".Main12Activity_zikhlum__tiak_lawng"
             android:label="@string/title_activity_main12_zikhlum__tiak_lawng"
