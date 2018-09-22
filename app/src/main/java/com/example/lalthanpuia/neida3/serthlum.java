@@ -13,6 +13,8 @@ public class serthlum extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_serthlum);
+
+        getSupportActionBar().setTitle("Serthlum");
     }
 
     public void a_Kung_hnai_Click(View view) {

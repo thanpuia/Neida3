@@ -11,6 +11,8 @@ public class vaimim extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vaimim);
+
+        getSupportActionBar().setTitle("Vaimim");
     }
 
     public void natna1_Click(View view) {

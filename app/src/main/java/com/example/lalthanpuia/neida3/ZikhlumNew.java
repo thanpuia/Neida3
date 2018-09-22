@@ -1,19 +1,18 @@
 package com.example.lalthanpuia.neida3;
 
 import android.content.Intent;
-import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+import android.os.Bundle;
 import android.view.View;
 
-public class zikhlum extends AppCompatActivity {
+public class ZikhlumNew extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_zikhlum);
+        setContentView(R.layout.activity_zikhlum_new);
+
+        getSupportActionBar().setTitle("Zikhlum");
 
     }
 
@@ -65,5 +64,9 @@ public class zikhlum extends AppCompatActivity {
     public void pangang_hring_click(View view) {
         Intent intent = new Intent(this,Main18Activity_zikhlum_pangang_hring.class);
         startActivity(intent);
+    }
+    public void whatapa(View view) {
+//        WhatsApp send = new WhatsApp(this);
+//        send.whatsappSend();
     }
 }

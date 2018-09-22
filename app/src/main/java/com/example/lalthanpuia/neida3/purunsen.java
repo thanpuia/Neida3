@@ -4,6 +4,10 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+import java.util.Collections;
 
 public class purunsen extends AppCompatActivity {
 
@@ -11,6 +15,9 @@ public class purunsen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_purunsen);
+
+        getSupportActionBar().setTitle("Purunsen");
+
     }
 
     public void kung_hmawr_tawih_Click(View view) {

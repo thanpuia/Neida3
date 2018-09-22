@@ -16,7 +16,6 @@
         android:theme="@style/AppTheme.AppBarOverlay"
         app:elevation="0dp">
 
-
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar"
             android:layout_width="match_parent"
@@ -44,8 +43,8 @@
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-
         <include layout="@layout/content_collapsible_toolbar" />
+
     </android.support.v4.widget.NestedScrollView>
 
 </android.support.design.widget.CoordinatorLayout>

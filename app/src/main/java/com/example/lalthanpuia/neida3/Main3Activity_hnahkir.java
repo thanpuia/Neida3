@@ -44,6 +44,8 @@ public class Main3Activity_hnahkir extends AppCompatActivity {
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle("A Hnah Kir");
+        toolbar.setSubtitle("Thingfanghma");
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -63,8 +65,9 @@ public class Main3Activity_hnahkir extends AppCompatActivity {
             public void onClick(View view) {
           /*      Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();*/
-           WhatsApp whatsApp= new WhatsApp();
-           whatsApp.whatsappSend();
+
+                WhatsApp send = new WhatsApp(Main3Activity_hnahkir.this);
+                send.whatsappSend();
 
             }
         });

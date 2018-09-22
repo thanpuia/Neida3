@@ -16,7 +16,7 @@ public class thingfanghma extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_thingfanghma);
 
-
+        getSupportActionBar().setTitle("Thingfanghma");
 
 
     }

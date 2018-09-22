@@ -22,7 +22,8 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_margin="5dp">
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="@color/background1">
 
                 <LinearLayout
                     android:layout_width="fill_parent"
@@ -30,6 +31,17 @@
                     android:orientation="vertical">
 
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/hriThlengNatna"
+                        android:textStyle="bold"
+                        android:textSize="25dp"
+                        android:layout_marginLeft="15dp"/>
+                    <Space
+                        android:layout_height="20dp"
+                        android:layout_width="match_parent"
+                        />
 
                     <Button
                         android:layout_width="match_parent"
@@ -137,14 +149,27 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_margin="5dp">
+                android:layout_margin="5dp"
+                app:cardBackgroundColor="@color/background2">
 
                 <LinearLayout
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:orientation="vertical">
 
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/rannungThlengNatna"
+                        android:textStyle="bold"
+                        android:textSize="25dp"
+                        android:layout_marginLeft="15dp"/>
 
+
+                    <Space
+                        android:layout_height="20dp"
+                        android:layout_width="match_parent"
+                        />
 
                     <Button
                         android:layout_width="match_parent"

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".balhla">
+    tools:context=".ZikhlumNew">
 
 
     <ScrollView
@@ -29,8 +29,6 @@
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:orientation="vertical">
-
-
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -39,26 +37,29 @@
                         android:textSize="25dp"
                         android:layout_marginLeft="15dp"/>
 
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="whatapa"/>
                     <Space
                         android:layout_height="20dp"
                         android:layout_width="match_parent"
                         />
-
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_natna1"
+                        android:background="@drawable/zikhlum_natna1"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="A_tam_hri_Click"
+                        android:onClick="A_hnah_tawih_click"
 
                         />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b1"
+                        android:text="@string/z1"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -68,16 +69,16 @@
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_natna2"
+                        android:background="@drawable/zikhlum_natna2"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="than_thu_Click"/>
+                        android:onClick="hnar_rau_click"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b2"
+                        android:text="@string/z2"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -87,16 +88,16 @@
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_natna3"
+                        android:background="@drawable/zikhlum_natna3"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="a_hnah_de_eng_click"/>
+                        android:onClick="a_tiak_lawng_click"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b3"
+                        android:text="@string/z3"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -106,16 +107,16 @@
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_natna4"
+                        android:background="@drawable/zikhlum_natna4"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="hnah_leh_rah_rau_Click"/>
+                        android:onClick="a_hnahhnuailam_var_click"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b4"
+                        android:text="@string/z4"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -153,21 +154,59 @@
                         android:layout_width="match_parent"
                         />
 
+
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_hri1"
+                        android:background="@drawable/zikhlum_hri1"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="banana_thrips_Click"
+                        android:onClick="zikhlum_hrik_Click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/z5"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"
+                        />
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/zikhlum_hri2"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="pangangte_click"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/z6"
+                        android:layout_marginLeft="15dp"/>
+
+                    <Space
+                        android:layout_height="30dp"
+                        android:layout_width="match_parent"/>
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/natnaButtonSize"
+                        android:background="@drawable/zikhlum_hri3"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginBottom="5dp"
+                        android:onClick="hnah_car_khawmtu_click"
 
                         />
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b5"
+                        android:text="@string/z7"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -177,16 +216,16 @@
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_hri2"
+                        android:background="@drawable/zikhlum_hri4"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="banana_aphid_click"/>
+                        android:onClick="a_tiak_sehchhumtu_click"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b6"
+                        android:text="@string/z8"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
@@ -196,45 +235,27 @@
                     <Button
                         android:layout_width="match_parent"
                         android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_hri3"
+                        android:background="@drawable/zikhlum_hri5"
                         android:layout_marginLeft="15dp"
                         android:layout_marginRight="15dp"
                         android:layout_marginTop="15dp"
                         android:layout_marginBottom="5dp"
-                        android:onClick="pseudostem_Click"/>
+                        android:onClick="pangang_hring_click"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/b7"
+                        android:text="@string/z9"
                         android:layout_marginLeft="15dp"/>
 
                     <Space
                         android:layout_height="30dp"
                         android:layout_width="match_parent"
                         />
-                    <Button
-                        android:layout_width="match_parent"
-                        android:layout_height="@dimen/natnaButtonSize"
-                        android:background="@drawable/balhla_hri4"
-                        android:layout_marginLeft="15dp"
-                        android:layout_marginRight="15dp"
-                        android:layout_marginTop="15dp"
-                        android:layout_marginBottom="5dp"
-                        android:onClick="fruit_Leaf_beetle_Click"/>
-                    <TextView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="@string/b8"
-                        android:layout_marginLeft="15dp"/>
 
-                    <Space
-                        android:layout_height="30dp"
-                        android:layout_width="match_parent"
-                        />
+
                 </LinearLayout>
             </android.support.v7.widget.CardView>
         </LinearLayout>
 
     </ScrollView>
-
 </android.support.constraint.ConstraintLayout>

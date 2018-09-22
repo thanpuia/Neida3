@@ -44,6 +44,9 @@ public class Main41Activity_purunsen_kungHmawrTawih extends AppCompatActivity {
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        getSupportActionBar().setTitle(R.string.p1);
+        toolbar.setSubtitle(R.string.purunsen);
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -61,8 +64,11 @@ public class Main41Activity_purunsen_kungHmawrTawih extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+             //   Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+               //         .setAction("Action", null).show();
+
+                WhatsApp send = new WhatsApp(Main41Activity_purunsen_kungHmawrTawih.this);
+                send.whatsappSend();
             }
         });
 

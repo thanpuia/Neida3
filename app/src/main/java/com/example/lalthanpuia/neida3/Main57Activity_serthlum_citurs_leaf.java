@@ -44,6 +44,9 @@ public class Main57Activity_serthlum_citurs_leaf extends AppCompatActivity {
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        getSupportActionBar().setTitle(R.string.s7);
+        toolbar.setSubtitle(R.string.serthlum);
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -61,8 +64,10 @@ public class Main57Activity_serthlum_citurs_leaf extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+               // Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                //        .setAction("Action", null).show();
+                WhatsApp send = new WhatsApp(Main57Activity_serthlum_citurs_leaf.this);
+                send.whatsappSend();
             }
         });
 

@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         drawer.addDrawerListener( toggle );
         toggle.syncState();
-      //  navigationView.setNavigationItemSelectedListener( );
+        //  navigationView.setNavigationItemSelectedListener( );
     }
 
 
@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void zikhlumClick(View view) {
-        Intent intent = new Intent(this,zikhlum.class);
+        Intent intent = new Intent(this,ZikhlumNew.class);
         startActivity(intent);
     }
 
@@ -68,8 +68,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void whatapa(View view) {
-        WhatsApp whatsApp= new WhatsApp();
-        whatsApp.whatsappSend();
-    }
+
 }

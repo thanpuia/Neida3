@@ -92,16 +92,24 @@
     <string name="title_activity_main54_serthlum_vutbuak">Main54Activity_serthlum_vutbuak</string>
     <string name="title_activity_main55_rah_tawih">Main55Activity_rah_tawih</string>
 
+    <string name="v1">A kuang tawih (Bacterial stalk rot)</string>
+    <string name="v2">A kuang meihawl  dum anga tawih (Charcoal stalk rot)</string>
+    <string name="v3">Hnah rau rawng uka tial (brown stripe Downey Mildew)
+</string>
+    <string name="v4">A hnah rau val kual (leaf blight)</string>
+    <string name="v5">A kau eitu (Stem borer)</string>
+    <string name="v6">Panganag hmul(Hairy caterpillar)</string>
+    <string name="v7">(Jassid)</string>
+    <string name="v8">A tui hnang dawttu (Aphids)</string>
+
     <string name="vaimim_natna1">A kuang tawih (Bacterial stalk rot)</string>
     <string name="vaimim_natna2">A kuang meihawl  dum anga tawih (Charcoal stalk rot)</string>
-    <string name="vaimim_natna3">Hnah rau rawng uka tial (brown stripe Downey Mildew)
-</string>
+    <string name="vaimim_natna3">Hnah rau rawng uka tial (brown stripe Downey Mildew)</string>
     <string name="vaimim_natna4">A hnah rau val kual (leaf blight)</string>
     <string name="vaimim_hri1">A kau eitu (Stem borer)</string>
     <string name="vaimim_hri2">Panganag hmul(Hairy caterpillar)</string>
     <string name="vaimim_hri3">(Jassid)</string>
     <string name="vaimim_hri4">A tui hnang dawttu (Aphids)</string>
-
     <string name="v1a1">  ● A kuang, lei hnaih lam a hnawng bik in a lo uk thet thet a, a tliak awlsam bik thin ani.</string>
     <string name="v1a2">  ● A kau tawih hian rimchhia a chhuah thin bawk.</string>
     <string name="v1a3">  ● A kau  tawih  hian a kung par lai te a thi thin bawk ani.</string>
@@ -492,5 +500,14 @@
         Main68Activity_vaimim_tuiHnangDawttu
     </string>
 
+    <string name="thingfanghma">Thingfanghma</string>
+    <string name="zikhlum">Zikhlum</string>
+    <string name="balhla">Balhla</string>
+    <string name="purunsen">Purun Sen</string>
+    <string name="serthlum">Serthlum</string>
+    <string name="vaimim">Vaimim</string>
+
+    <string name="hriThlengNatna">Hri Thleng Natna</string>
+    <string name="rannungThlengNatna">Rannung Thleng Natna</string>
 
 </resources>
