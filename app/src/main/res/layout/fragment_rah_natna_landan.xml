@@ -43,6 +43,9 @@
             android:src="@drawable/papaya_idm4"
             android:onClick="thingfanghmaNatna4CLick"/>
 
+        <android.support.v4.widget.Space
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
     </LinearLayout>
 </ScrollView>
 

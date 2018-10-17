@@ -9,5 +9,8 @@ public class img_balhla_hnahDeEng extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_img_balhla_hnah_de_eng);
+
+        getSupportActionBar().setTitle("A hnah de eng");
+
     }
 }

@@ -8,26 +8,41 @@
     android:orientation="vertical"
     android:background="@drawable/bg3">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/papaya_ipm1_enkawldan"
 
-        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/t5b1"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/t5b2"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/papaya_ipm1_enkawldan"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/t5b1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/t5b2"/>
+
+            <android.support.v4.widget.Space
+                android:layout_width="wrap_content"
+                android:layout_height="10dp" />
+        </LinearLayout>
+    </ScrollView>
 
 
 

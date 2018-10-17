@@ -9,5 +9,8 @@ public class img_balhla_thanThu extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_img_balhla_than_thu);
+
+        getSupportActionBar().setTitle("Balhla than thu");
+
     }
 }

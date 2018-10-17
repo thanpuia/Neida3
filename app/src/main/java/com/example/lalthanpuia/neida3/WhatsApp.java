@@ -6,7 +6,9 @@ import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 
 public class WhatsApp {
+
     Context context;
+
 
     public WhatsApp(ZikhlumNew zikhlumNew){
         context= zikhlumNew;
@@ -91,7 +93,6 @@ public class WhatsApp {
     public WhatsApp(Main34Activity_hnah_leh_rah_rau main34Activity_hnah_leh_rah_rau ){
         context = main34Activity_hnah_leh_rah_rau;
     }
-
     public WhatsApp(Main35Activity_balhla_thrips main35Activity_balhla_thrips ){
         context = main35Activity_balhla_thrips;
     }
@@ -126,7 +127,6 @@ public class WhatsApp {
     public WhatsApp(Main47Activity_purunsen_hnah_hreuh_rangtu main47Activity_purunsen_hnah_hreuh_rangtu){
         context = main47Activity_purunsen_hnah_hreuh_rangtu;
     }
-
     public WhatsApp(Main48Activity_purunsen_tiak_sehchhumtu main48Activity_purunsen_tiak_sehchhumtu ){
         context = main48Activity_purunsen_tiak_sehchhumtu;
     }
@@ -193,7 +193,7 @@ public class WhatsApp {
     public void whatsappSend(){
         try {
 
-            String toNumber = "9436153649";
+            String toNumber = "7810911046";
             Intent sendIntent = new Intent(Intent.ACTION_SENDTO, Uri.parse("smsto:" + "" + toNumber+ "?body=" + ""));
             sendIntent.setPackage("com.whatsapp");
             context.startActivity(sendIntent);

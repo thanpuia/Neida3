@@ -9,6 +9,6 @@
     <com.jsibbold.zoomage.ZoomageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/zikhlum_hri1"/>
+        android:src="@drawable/zikhlum_hri2"/>
 
 </android.support.constraint.ConstraintLayout>

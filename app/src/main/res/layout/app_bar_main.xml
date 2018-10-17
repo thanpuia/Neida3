@@ -6,13 +6,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
+
     tools:context=".MainActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar_layout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
         android:fitsSystemWindows="true"
+        android:background="@drawable/thlai_bgg"
         android:theme="@style/AppTheme.AppBarOverlay"
         app:elevation="0dp">
 
@@ -24,14 +26,30 @@
             app:contentScrim="?attr/colorPrimary"
             app:layout_scrollFlags="scroll|enterAlways">
 
-            <ImageView
-                android:id="@+id/iv_detail"
+            <LinearLayout
+                android:layout_gravity="center|top"
+                android:id="@+id/banner"
                 android:layout_width="wrap_content"
-                android:layout_height="200dp"
-                android:fitsSystemWindows="false"
-                android:scaleType="centerCrop"
-                android:src="@drawable/neida_logo3"
-                app:layout_collapseMode="parallax" />
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:onClick="bannerClick">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="NEIDA"
+                    android:textColor="#000000"
+                    android:textSize="39dp"
+                    android:gravity="center"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bannerBody"
+                    android:textColor="#000000"
+                    android:textSize="16dp"
+                    android:gravity="center"/>
+
+
+            </LinearLayout>
 
 
         </android.support.design.widget.CollapsingToolbarLayout>
@@ -43,7 +61,8 @@
         android:layout_height="match_parent"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-        <include layout="@layout/content_collapsible_toolbar" />
+        <include
+            layout="@layout/content_collapsible_toolbar" />
 
     </android.support.v4.widget.NestedScrollView>
 

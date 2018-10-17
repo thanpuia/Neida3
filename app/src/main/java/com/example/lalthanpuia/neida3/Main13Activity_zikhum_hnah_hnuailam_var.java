@@ -20,6 +20,8 @@ import android.view.ViewGroup;
 
 import android.widget.TextView;
 
+import static com.example.lalthanpuia.neida3.MainActivity.sound;
+
 public class Main13Activity_zikhum_hnah_hnuailam_var extends AppCompatActivity {
 
     /**
@@ -36,6 +38,14 @@ public class Main13Activity_zikhum_hnah_hnuailam_var extends AppCompatActivity {
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
+
+    @Override
+    public void onBackPressed() {
+        if(sound)
+            MainActivity.mediaPlayerBack.start();
+        super.onBackPressed();
+    }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,6 +76,9 @@ public class Main13Activity_zikhum_hnah_hnuailam_var extends AppCompatActivity {
             public void onClick(View view) {
               //  Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
               //          .setAction("Action", null).show();
+
+                if(sound)
+                    MainActivity.mediaPlayerSent.start();
                 WhatsApp send = new WhatsApp(Main13Activity_zikhum_hnah_hnuailam_var.this);
                 send.whatsappSend();
             }

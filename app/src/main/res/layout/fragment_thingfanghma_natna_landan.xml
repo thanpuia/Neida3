@@ -44,6 +44,10 @@
             android:layout_margin="@dimen/zoomImageMargin"
             android:onClick="thingfanghmaNatna1CLick"/>
 
+        <android.support.v4.widget.Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
     </LinearLayout>
 </ScrollView>
 

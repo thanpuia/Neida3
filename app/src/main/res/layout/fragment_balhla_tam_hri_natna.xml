@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/balhla_natna1"
                 android:onClick="balhlanatna1Click"/>
+
+            <android.support.v4.widget.Space
+                android:layout_width="wrap_content"
+                android:layout_height="40dp" />
         </LinearLayout>
     </ScrollView>
 

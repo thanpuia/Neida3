@@ -6,18 +6,24 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="Thlai Nei puitu"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/thlai_logo"
+        android:label="@string/ThlaiEnkawltu"
+        android:roundIcon="@mipmap/thlai_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashTheme">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".MainActivity" />
+
         <activity android:name=".thingfanghma" />
         <activity
             android:name=".Main2Activity"
@@ -283,7 +289,9 @@
             android:label="@string/title_activity_main68_vaimim_tui_hnang_dawttu"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".img_vaimim_tuihangdawttu" />
-        <activity android:name=".ZikhlumNew"></activity>
+        <activity android:name=".ZikhlumNew" />
+        <activity android:name=".listview" />
+        <activity android:name=".vaimimChindan" />
     </application>
 
 </manifest>

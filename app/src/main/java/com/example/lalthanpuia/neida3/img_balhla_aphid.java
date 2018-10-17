@@ -9,5 +9,8 @@ public class img_balhla_aphid extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_img_balhla_aphid);
+
+        getSupportActionBar().setTitle("Banana Aphid");
+
     }
 }

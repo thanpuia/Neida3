@@ -9,5 +9,8 @@ public class img_balhla_fruitAndleadBeetle extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_img_balhla_fruit_andlead_beetle);
+
+        getSupportActionBar().setTitle("Fruit and Leaf Scarring Beetle");
+
     }
 }
