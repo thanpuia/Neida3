@@ -512,9 +512,15 @@
     <string name="hriThlengNatna">Hri Thlen Natna</string>
     <string name="rannungThlengNatna">Rannung Thleng Natna</string>
 
-    <string name="bannerBody">c/o Open Doors (OD),\n
-                            D-26/II, Thanzuala Dosel (L) Building,\n
-                                Basic Mual, Ramhlun North,Aizawl - 796012,Mizoram\n
-                             Near Zangena Petrol Pump\n</string>
+    <string name="Neida">North East Initiative Development Agency \n(NEIDA)</string>
+    <string name="bannerBody">B-51, 3rd Floor, B.S. Building,\n
+                           Near Zarkawt Presbyterian Church,\n
+                               McDonald Hill, Zarkawt\n
+                              Aizawl, Mizoram – 796 007 \n
+                    Contact No. : 0389 2349458 (Office) \n
+                         Email : info.mizoram.neida@gmail.com \n
+                            Website : www.neida.org.in
+    </string>
+
 
 </resources>
