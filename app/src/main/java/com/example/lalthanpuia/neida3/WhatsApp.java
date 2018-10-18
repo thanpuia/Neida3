@@ -192,8 +192,8 @@ public class WhatsApp {
 
     public void whatsappSend(){
         try {
-
-            String toNumber = "7810911046";
+//THIS NUMBER BELONGS TO RUATA
+            String toNumber ="8974111361";
             Intent sendIntent = new Intent(Intent.ACTION_SENDTO, Uri.parse("smsto:" + "" + toNumber+ "?body=" + ""));
             sendIntent.setPackage("com.whatsapp");
             context.startActivity(sendIntent);
