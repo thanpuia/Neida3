@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:textSize="@dimen/textSize"
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/p3a1"/>
+        android:text="@string/p4a1"/>
 
     <TextView
         android:layout_width="wrap_content"

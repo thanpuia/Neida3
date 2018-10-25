@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".img_balhla_aphid">
 
-    <com.jsibbold.zoomage.ZoomageView
+    <it.sephiroth.android.library.imagezoom.ImageViewTouch
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/balhla_hri2"/>

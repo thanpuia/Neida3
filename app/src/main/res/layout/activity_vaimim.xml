@@ -248,7 +248,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Vaimim Chin dan"
+                        android:text="Vaimim chin dan"
                         android:textStyle="bold"
                         android:textSize="25dp"
                         android:layout_marginLeft="15dp"/>
@@ -260,7 +260,7 @@
                         android:id="@+id/vaimimChindan"
                         android:layout_width="match_parent"
                         android:layout_height="111dp"
-                        android:src="@drawable/vaimimchindan_small"
+                        android:src="@drawable/vaimim_chin_dan"
                         android:onClick="vaimimChindan" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>

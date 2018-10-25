@@ -24,11 +24,4 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/b1b2"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="   ● A hnah bakah a kung a thler in, han tanchhum hian a kung kha a tan chhumna laiah khan a duk thluah thluah in a rimchhe hle thin bawk ani."/>
-
 </LinearLayout>

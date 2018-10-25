@@ -19,6 +19,7 @@ import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.Toast;
 
 import com.example.lalthanpuia.neida3.sampledata.CustomListView;
 
@@ -30,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         public static MediaPlayer mediaPlayerSent;
         public static MediaPlayer mediaPlayerBack;
 
-        public static boolean sound = false;
+        public static boolean sound = true;
         public static SharedPreferences sharedPreferences;
 
     Random rand = new Random();
@@ -41,6 +42,25 @@ public class MainActivity extends AppCompatActivity {
     Integer[] images;
     ImageView imageView;
 
+   /* public void bannerClick(View view) {
+
+        try{
+
+            if(sound)
+                mediaPlayer.start();
+
+            int [] anim = new int[]{R.anim.diagonal_right_enter,R.anim.zoom_enter,R.anim.card_enter,
+                    R.anim.fade_enter,R.anim.shrink_enter,R.anim.windmill_enter,R.anim.slide_up_enter,
+                    R.anim.fade_enter,R.anim.spin_enter,R.anim.slide_in_left,R.anim.swipe_left_enter,
+                    R.anim.split_enter,R.anim.zoom_enter,R.anim.in_out_enter};
+
+            int newRand = rand.nextInt(14);
+            Animation animation= AnimationUtils.loadAnimation(getApplicationContext(),anim[newRand]);
+            banner.startAnimation(animation);
+
+        }catch (Exception e){}
+
+    }*/
         @Override
         public boolean onCreateOptionsMenu(Menu menu) {
             MenuInflater menuInflater =getMenuInflater();
@@ -53,19 +73,9 @@ public class MainActivity extends AppCompatActivity {
         public boolean onOptionsItemSelected(MenuItem item) {
             super.onOptionsItemSelected(item);
 
-            switch (item.getItemId()) {
-                case R.id.soundOn:
-                    sound = true;
-                    mediaPlayer.start();
-                    soundMode(sound);
                     return true;
-                case R.id.soundOff:
-                    sound = false;
-                    soundMode(sound);
-                    return true;
-                default:
-                    return  false;
-            }
+
+
         }
 
         public void soundMode(Boolean mode){
@@ -145,27 +155,24 @@ public class MainActivity extends AppCompatActivity {
         });
     }
    // int x=0;
-        public void bannerClick(View view) {
 
-            if(sound)
-                mediaPlayer.start();
 
-            int [] anim = new int[]{R.anim.diagonal_right_enter,R.anim.zoom_enter,R.anim.card_enter,
-                    R.anim.fade_enter,R.anim.shrink_enter,R.anim.windmill_enter,R.anim.slide_up_enter,
-                    R.anim.fade_enter,R.anim.spin_enter,R.anim.slide_in_left,R.anim.swipe_left_enter,
-                    R.anim.split_enter,R.anim.zoom_enter,R.anim.in_out_enter};
-            int newRand = rand.nextInt(14);
+    public void soundClick(MenuItem item) {
+        if(sound){
+            sound = false;
+            soundMode(sound);
+            Toast.makeText(this,"Sound Off",Toast.LENGTH_LONG).show();
 
-            Animation animation= AnimationUtils.loadAnimation(getApplicationContext(),anim[newRand]);
-          //  x++;
-          //  if(x>14)
-         //       x=0;
-         //   Animation animation= AnimationUtils.loadAnimation(getApplicationContext(),anim[x]);
-            banner.startAnimation(animation);
+        }else {
+            sound = true;
+            mediaPlayer.start();
+            soundMode(sound);
+            Toast.makeText(this,"Sound On",Toast.LENGTH_LONG).show();
 
         }
+    }
 
-        class CustomAdapter extends BaseAdapter {
+    class CustomAdapter extends BaseAdapter {
 
         @Override
         public int getCount() {

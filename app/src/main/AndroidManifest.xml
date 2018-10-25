@@ -14,16 +14,13 @@
         <activity
             android:name=".SplashScreen"
             android:theme="@style/SplashTheme">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".MainActivity" />
-
         <activity android:name=".thingfanghma" />
         <activity
             android:name=".Main2Activity"
@@ -292,6 +289,13 @@
         <activity android:name=".ZikhlumNew" />
         <activity android:name=".listview" />
         <activity android:name=".vaimimChindan" />
+        <activity android:name=".img_vaimim_chindan1" />
+        <activity android:name=".img_vaimim_chindan2" />
+        <activity android:name=".img_vaimim_chindan3" />
+        <activity android:name=".img_vaimim_chindan4" />
+        <activity android:name=".img_vaimim_chindan5" />
+        <activity android:name=".img_vaimim_chindan6" />
+        <activity android:name=".img_vaimim_chindan7"></activity>
     </application>
 
 </manifest>

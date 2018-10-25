@@ -7,24 +7,41 @@
     android:orientation="vertical"
     android:background="@drawable/bg3">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/serthlum_hri4_enkawldan"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/s9b1"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/s9b2"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/serthlum_hri4_enkawldan"/>
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/s9b1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+                android:text="@string/s9b2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="30dp"
+                android:textColor="#ffffff"
+                android:text="..."/>
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

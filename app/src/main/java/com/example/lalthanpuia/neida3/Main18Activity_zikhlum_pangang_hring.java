@@ -103,7 +103,7 @@ public class Main18Activity_zikhlum_pangang_hring extends AppCompatActivity {
             switch (position){
                 case 0: fragment = new zikhlum_pangang_hring_natna();break;
                 case 1: fragment = new zikhlum_pangang_hring_tihchhiatdan();break;
-                case 2: fragment = new zikhlum_pangangte_enkawldan();break;
+                case 2: fragment = new zikhlum_pangang_hring_enkawldan();break;
 
             }
             return fragment;

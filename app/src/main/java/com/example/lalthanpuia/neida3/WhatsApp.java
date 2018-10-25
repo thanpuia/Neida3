@@ -1,9 +1,13 @@
 package com.example.lalthanpuia.neida3;
 
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
+import android.telephony.PhoneNumberUtils;
+import android.widget.Toast;
 
 public class WhatsApp {
 
@@ -193,15 +197,41 @@ public class WhatsApp {
     public void whatsappSend(){
         try {
 //THIS NUMBER BELONGS TO RUATA
-            String toNumber ="8974111361";
+        /*    String toNumber ="8974111361";
             Intent sendIntent = new Intent(Intent.ACTION_SENDTO, Uri.parse("smsto:" + "" + toNumber+ "?body=" + ""));
             sendIntent.setPackage("com.whatsapp");
-            context.startActivity(sendIntent);
+            context.startActivity(sendIntent);*/
+            String smsNumber = "8974111361";
+            boolean isWhatsappInstalled = whatsappInstalledOrNot("com.whatsapp");
+            if (isWhatsappInstalled) {
+
+                Intent sendIntent = new Intent("android.intent.action.MAIN");
+                sendIntent.setComponent(new ComponentName("com.whatsapp", "com.whatsapp.Conversation"));
+                sendIntent.putExtra("jid", PhoneNumberUtils.stripSeparators(smsNumber) + "@s.whatsapp.net");//phone number without "+" prefix
+
+                context.startActivity(sendIntent);
+            } else {
+                Uri uri = Uri.parse("market://details?id=com.whatsapp");
+                Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+                //Toast.makeText(, "WhatsApp not Installed", Toast.LENGTH_SHORT).show();
+                context.startActivity(goToMarket);
+            }
         }
         catch (Exception e){
             e.printStackTrace();
             // Toast.makeText(MainActivity.this,"it may be you dont have whats app",Toast.LENGTH_LONG).show();
 
         }
+    }
+    private boolean whatsappInstalledOrNot(String uri) {
+        PackageManager pm = context.getPackageManager();
+        boolean app_installed = false;
+        try {
+            pm.getPackageInfo(uri, PackageManager.GET_ACTIVITIES);
+            app_installed = true;
+        } catch (PackageManager.NameNotFoundException e) {
+            app_installed = false;
+        }
+        return app_installed;
     }
 }

@@ -21,12 +21,5 @@
         android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
         android:text="@string/v4b2"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/v4b3"/>
-
 
 </LinearLayout>

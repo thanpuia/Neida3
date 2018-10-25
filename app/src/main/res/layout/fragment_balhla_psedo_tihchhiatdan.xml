@@ -6,24 +6,42 @@
     tools:context=".balhla_psedo_tihchhiatdan"
     android:orientation="vertical"
     android:background="@drawable/bg3">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/balhla_hri3_enkawldan"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/b7b1"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/balhla_hri3_enkawldan"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+            android:text="@string/b7b1"/>
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="@dimen/textSize"
-        android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
-        android:text="@string/b7b2"/>
-</LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:layout_margin="@dimen/natnaLanDanLehEnkawlDanMargin"
+            android:text="@string/b7b2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/textSize"
+            android:layout_margin="30dp"
+            android:textColor="#ffffff"
+            android:text="..."/>
+
+    </LinearLayout>
+</ScrollView>
+  </LinearLayout>

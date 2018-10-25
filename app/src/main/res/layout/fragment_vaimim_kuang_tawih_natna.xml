@@ -13,7 +13,8 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:orientation="vertical">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -41,7 +42,13 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/vaimim_natna1"
                 android:onClick="vaimimnatna1Click"/>
-
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/textSize"
+                android:layout_margin="30dp"
+                android:textColor="#ffffff"
+                android:text="..."/>
         </LinearLayout>
     </ScrollView>
 

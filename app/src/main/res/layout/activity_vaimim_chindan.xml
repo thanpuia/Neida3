@@ -1,18 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".vaimimChindan">
+    tools:context=".vaimimChindan"
+    android:orientation="vertical">
 
-
-
-        <com.jsibbold.zoomage.ZoomageView
+        <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/vaimimchindan_56_1"/>
+            android:layout_height="match_parent">
 
 
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
 
-</android.support.constraint.ConstraintLayout>
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="1. LEI SAWNGBAWL DAN"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick1"
+                            android:textAlignment="viewStart"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="2. A CHI TUH DAN"
+                            android:textAlignment="viewStart"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick2"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="3. SUAT THAWL DAN ..."
+                            android:textAlignment="viewStart"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick3"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="4. A CHIN PAWLH DAN ..."
+                            android:textAlignment="viewStart"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick4"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="5. TUI PEK HUN"
+                            android:textAlignment="viewStart"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick5"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="6. A SENG HUN"
+                            android:textAlignment="viewStart"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick6"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+                        <Button
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="OFFICE BIAK PAWH NA"
+                            android:textAlignment="viewStart"
+                            android:textSize="25dp"
+                            android:paddingBottom="30dp"
+                            android:paddingTop="30dp"
+                            android:paddingLeft="15dp"
+                            android:onClick="coverClick7"
+                            android:layout_margin="7dp"
+                            android:gravity="start" />
+
+                </LinearLayout>
+        </ScrollView>
+</LinearLayout>
