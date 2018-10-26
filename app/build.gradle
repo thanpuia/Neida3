@@ -6,8 +6,8 @@ android {
         applicationId "com.thlaienkawltu.lalthanpuia.neida3"
         minSdkVersion 16
         targetSdkVersion 27
-        versionCode 10
-        versionName "1.9"
+        versionCode 11
+        versionName "1.10"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
